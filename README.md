@@ -1,2 +1,8 @@
-# easy-infographics.github.io
-Main page for easy-infographics
+## Easy scientific infographics 
+
+### Topics
+
+- [COVID19](https://easy-infographics.github.io/COVID19/)
+
+
+
