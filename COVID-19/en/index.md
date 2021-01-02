@@ -1,19 +1,9 @@
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
-
-This work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
-
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
-
-[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
-[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
-[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
 ### What is available in this section?
 
 - How does the mRNA vaccine work?
 
-see this also in 🇮🇹 [italian](../en/)
+see this also in 🇮🇹  [italian](../it/)
 
 ![How does the mRNA vaccine work - english evrsion](images/vaccine.svg)
 
@@ -29,5 +19,12 @@ None.
 
 This project is the result of my spare time, and the one of the people (see section below) that collaborated in the process of making and revising the illustrations. 
 
+### License
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
