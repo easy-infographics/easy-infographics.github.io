@@ -12,7 +12,8 @@ This work is licensed under a
 ### What is available in this section?
 
 - How does the mRNA vaccine work?
-see this also in [italian](../en/)
+
+see this also in 🇮🇹 [italian](../en/)
 
 ![How does the mRNA vaccine work - english evrsion](images/vaccine.svg)
 
