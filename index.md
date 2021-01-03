@@ -1,3 +1,4 @@
+![Logo](images/logo.svg)
 
 ### What is this page about?
 
@@ -7,6 +8,7 @@ In this section I hope to provide **easy-to-understand infographics about scienc
 ### Topics:
 
 - [COVID-19](COVID-19/)
+- [Cell_Biology](Cell_Biology/)
 
 ### License
 
