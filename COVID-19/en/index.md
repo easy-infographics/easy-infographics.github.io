@@ -1,4 +1,4 @@
-**Here are collected my infographics on COVID-19 in English. When not done by me, you can find the credits below the illustration :) **
+**Here are collected my infographics on COVID-19 in English. When not done by me, you can find the credits below the illustration :)**
 
 Check out this page also other languages:
 
