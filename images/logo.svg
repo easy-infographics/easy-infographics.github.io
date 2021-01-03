@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="297mm"
+   width="277mm"
    height="30mm"
-   viewBox="0 0 1052.3622 106.29921"
+   viewBox="0 0 981.49606 106.29921"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -38,8 +38,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0173663"
-     inkscape:cx="526.1811"
-     inkscape:cy="48.927012"
+     inkscape:cx="501.16509"
+     inkscape:cy="53.149606"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -594,32 +594,32 @@
        sodipodi:linespacing="125%"
        id="text5467"
        y="1012.2109"
-       x="25.280468"
+       x="13.280468"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:InaiMathi;-inkscape-font-specification:'InaiMathi Bold';fill:#333333"
          y="1012.2109"
-         x="25.280468"
+         x="13.280468"
          id="tspan5469"
          sodipodi:role="line">Easy Infographics</tspan></text>
     <ellipse
        ry="3.5520098"
        rx="3.9942393"
        cy="987.76587"
-       cx="58.890392"
+       cx="46.890392"
        id="ellipse5489"
        style="fill:#6d8ce6;fill-opacity:1;fill-rule:evenodd;stroke:#323232;stroke-width:1.23624718;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <ellipse
        style="fill:#f5cb25;fill-opacity:1;fill-rule:evenodd;stroke:#323232;stroke-width:1.27843547;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse5499"
-       cx="90.029091"
+       cx="78.029091"
        cy="976.78967"
        rx="6.6112447"
        ry="5.8792686" />
     <ellipse
        style="fill:#ff7b00;fill-opacity:1;fill-rule:evenodd;stroke:#323232;stroke-width:1.27843547;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse5501"
-       cx="109.99113"
+       cx="97.991127"
        cy="982.65369"
        rx="8.0222597"
        ry="7.1340609" />
@@ -627,7 +627,7 @@
        ry="4.4989982"
        rx="5.0591288"
        cy="979.22809"
-       cx="71.53376"
+       cx="59.53376"
        id="ellipse5503"
        style="fill:#64bc9e;fill-opacity:1;fill-rule:evenodd;stroke:#323232;stroke-width:1.24252439px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <text
@@ -736,7 +736,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:InaiMathi;-inkscape-font-specification:'InaiMathi Bold';fill:#333333">Easy Infographics</tspan></text>
     <path
        style="fill:#333333;fill-rule:evenodd;stroke:#323232;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 215.13198,1006.2712 768.32851,-0.4957"
+       d="m 203.13198,1006.2712 768.32851,-0.4957"
        id="path5600"
        inkscape:connector-curvature="0" />
   </g>
