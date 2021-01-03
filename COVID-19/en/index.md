@@ -1,10 +1,9 @@
-Here are collected my infographics on COVID-19 in English. When not done by me, below the illustration you will find the credits :) 
+**Here are collected my infographics on COVID-19 in English. When not done by me, you can find the credits below the illustration :) **
 
 Check out this page also other languages:
 
 🇮🇹  [italian](../it/)
 
-### What is available in this section?
 
 # Why are vaccines useful?
 
@@ -21,7 +20,7 @@ Here you can see what happens to our cells when they get in contact with SARS-Co
 mRNA vaccines are not the only type of vaccine available against COVID-19, but for simplicity are the only one described in this infographic.
 more illustrations coming soon :)
 
-# What is a mRNA after all? 
+# What is an mRNA after all? 
 
 Well, while you might have heard mRNA vaccines being mentioned in the news headlines, mRNA is all but recent. Infact, mRNA is produced and destroyed by your cells every second, since you were born, and it's naturally part of how our body works. 
 You can find a dedicated illustration in [what is mRNA -english version]() in the [Cell Biology]() section. 
