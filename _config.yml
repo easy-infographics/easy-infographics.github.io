@@ -1,10 +1,1 @@
-# Front Matter Defaults
-defaults:
-  # Posts defaults
-  - scope:
-      path: "" # an empty string here means all files in the project
-      type: posts # Apply the default values below only to posts
-    values:
-      image: images/logo.svg
-
-# ...
+title: <img alt='Logo' src='images/logo.svg'/>
