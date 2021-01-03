@@ -1,4 +1,3 @@
-![Logo](images/logo.svg)
 
 ### What is this page about?
 
