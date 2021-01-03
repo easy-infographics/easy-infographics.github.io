@@ -1,9 +1,9 @@
-**Here are collected my infographics on COVID-19 in English. When not done by me, you can find the credits below the illustration :)**
-
-Check out this page also other languages:
+**Check out this page also other languages:**
 
 🇮🇹  [italian](../it/)
 
+Here are collected my infographics on COVID-19 in English. When not done by me, you can find the author(s) credits below the illustration :)
+These illustrations aim at answering in a clear and simplified way specific questions that were asked to me, by friends and family. 
 
 # Why are vaccines useful?
 
