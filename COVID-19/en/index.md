@@ -19,7 +19,7 @@ This illustration shows in a colorful and fun way what happens when COVID-19 vir
 Here you can see what happens to our cells when they get in contact with SARS-CoV-2 (the virus that causes the COVID-19 disease) **before, during and after the vaccination with mRNA vaccine.**
 mRNA vaccines are not the only type of vaccine available against COVID-19, but for simplicity are the only one described in this infographic.
 
-*[syringe image source](https://pixabay.com/users/janjf93-3084263/)*
+[syringe image source](https://pixabay.com/users/janjf93-3084263/)
 
 # What is an mRNA after all? 
 
