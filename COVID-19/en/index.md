@@ -1,3 +1,6 @@
+![Logo](images/logo.svg)
+
+
 **Check out this page also in other languages:**
 
 🇮🇹  [italian](../it/)
