@@ -25,7 +25,7 @@ mRNA vaccines are not the only type of vaccine available against COVID-19, but f
 # What is an mRNA after all? 
 
 Well, while you might have heard of mRNA vaccines in the recent news headlines, mRNA is all but recent. Infact, mRNA has been produced and destroyed by your cells every second since you were born, and it's **naturally part of how our body works.**
-You can find a dedicated illustration in [what is mRNA -english version]() in the [Cell Biology]() section. 
+You can find a dedicated illustration in [what is mRNA -english version](../../Cell_Biology/en/) in the [Cell Biology](../../Cell_Biology) section. 
 
 **more illustrations coming soon :)**
 
