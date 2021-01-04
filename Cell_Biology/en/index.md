@@ -10,7 +10,8 @@ Here are collected my infographics on the broad topic of cellular biology in Eng
 # What is the mRNA? 
 
 Well, while you might have heard of mRNA vaccines in the recent news headlines, mRNA is all but recent. Infact, mRNA has been produced and destroyed by your cells every second since you were born, and it's **naturally part of how our body works.**
-You can find a dedicated illustration in [what is mRNA -english version](images/mRNA_cell.svg) in the [Cell Biology]() section. 
+
+![mRNA_cell.svg - English version](images/mRNA_cell.svg)
 
 **more illustrations coming soon :)**
 
