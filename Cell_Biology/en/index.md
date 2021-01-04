@@ -7,10 +7,10 @@
 Here are collected my infographics on the broad topic of cellular biology in English. 
 **These illustrations aim at answering in a clear and simplified way specific questions that were asked to me**, by friends and family. 
 
-# What is an mRNA after all? 
+# What is the mRNA? 
 
 Well, while you might have heard of mRNA vaccines in the recent news headlines, mRNA is all but recent. Infact, mRNA has been produced and destroyed by your cells every second since you were born, and it's **naturally part of how our body works.**
-You can find a dedicated illustration in [what is mRNA -english version]() in the [Cell Biology]() section. 
+You can find a dedicated illustration in [what is mRNA -english version](images/mRNA_cell.svg) in the [Cell Biology]() section. 
 
 **more illustrations coming soon :)**
 
