@@ -35,7 +35,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.572381"
      inkscape:cx="526.1811"
-     inkscape:cy="346.60812"
+     inkscape:cy="372.04724"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -692,7 +692,7 @@
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#d4aa00"
    id="tspan6185">messenger RNA</tspan> (or <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#d4aa00"
-   id="tspan6189">mRNA</tspan>)</tspan></text>
+   id="tspan6189">mRNA</tspan>).</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -720,7 +720,7 @@
          x="717.3808"
          y="833.40442"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start"
-         id="tspan5908">goes in the <tspan
+         id="tspan5908">goes into the <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
    id="tspan6556">cytoplasm</tspan>. </tspan></text>
     <text
@@ -767,14 +767,17 @@
          sodipodi:role="line"
          id="tspan6726">are molecules called <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#008066"
-   id="tspan6728">ribosomes</tspan></tspan></text>
+   id="tspan6728">ribosomes</tspan>.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="465.84213"
        y="808.0415"
        id="text5928"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/ferretti/Desktop/science_outreach/png/text5928.png"
+       inkscape:export-xdpi="350"
+       inkscape:export-ydpi="350"><tspan
          sodipodi:role="line"
          x="465.84213"
          y="808.0415"
@@ -793,7 +796,7 @@
          x="465.84213"
          y="836.1665"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;fill:#000000"
-         id="tspan6276">proceed producing the <tspan
+         id="tspan6276">proceed with producing the <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#0044aa"
    id="tspan6618">protein</tspan> needed.</tspan></text>
     <path
@@ -1143,24 +1146,24 @@
          y="495.1106"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start"
          id="tspan6145">The instructions for that <tspan
-   style="-inkscape-font-specification:'Arial Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill:#0044aa"
-   id="tspan4436">protein</tspan> is in the <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#0044aa"
+   id="tspan4436">protein</tspan> are in the <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#800000"
    id="tspan6495">DNA </tspan></tspan><tspan
-         sodipodi:role="line"
-         x="554.24316"
-         y="509.1731"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start"
-         id="tspan6147">(which is located in the <tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
-   id="tspan6501">nucleus</tspan>) and, more in </tspan><tspan
          id="tspan6523"
          sodipodi:role="line"
          x="554.24316"
+         y="509.1731"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start">(which is located in the <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+   id="tspan6501">nucleus</tspan>) and, more </tspan><tspan
+         sodipodi:role="line"
+         x="554.24316"
          y="523.2356"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start">specific, in a portion of the <tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start"
+         id="tspan4413">specifically, in a portion of the <tspan
    id="tspan6566"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#800000">DNA </tspan>called <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#800000">DNA </tspan>called a <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ff0000"
    id="tspan6503">gene</tspan>.</tspan></text>
     <path
@@ -1250,7 +1253,7 @@
          sodipodi:role="line"
          x="28.033525"
          y="873.79504"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start">DNA and then carries it outside of the nucleus, in the <tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start">DNA and then carries it outside of the nucleus, into the <tspan
    id="tspan6841"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'">cytoplasm</tspan>, </tspan><tspan
          id="tspan6843"
@@ -1449,8 +1452,8 @@
          sodipodi:role="line"
          x="27.757326"
          y="998.82758"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start">The production of <tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start"><tspan
    id="tspan4472"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#d4aa00">messenger RNA</tspan> is part of the molecules naturally produced by our cells. </tspan></text>
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#d4aa00">Messenger RNA</tspan> is one of the many molecules naturally produced our cells. </tspan></text>
   </g>
 </svg>
