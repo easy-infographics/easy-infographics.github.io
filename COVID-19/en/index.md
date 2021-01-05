@@ -1,32 +1,31 @@
 [Go to the main page](https://easy-infographics.github.io/)
 
-**Check out this page also in other languages:** 🇮🇹  [italian](../it/)
+**Check out this page also in other languages:** 🇮🇹  [ITALIAN](../it/)
 
-Here are collected the infographics on COVID-19. When not done by me, you can find the author(s) credits below the illustration. 
-**These illustrations aim at answering in a clear and simplified way specific questions that were asked to me**, by friends and family members. 
+Below you will find a collection of infographics on COVID-19. When not created by me, you can find the author(s) credits below the illustration. 
+**These illustrations aim to answer specific question asked to me in a clear and simplified way**. 
 
 # Why are vaccines useful?
 
-**credits: Eleonora Nigro (Twitter: @nigrelex)**
+**credits for this illustration: Eleonora Nigro (Twitter: @nigrelex)**
 
-This illustration shows in a colorful and fun way what happens when COVID-19 virus encounters a human cell. There are three scenarios: before, during and after the vaccination.
+This illustration aims to show, in a colorful and fun way, what happens when SARS-CoV-2 encounters a human cell. There are three scenarios: before, during and after the vaccination.
 **Vaccination allows our immune system to "remember" the virus and in case of a future encounter our body will be able to respond in a rapid and effective way.**
-Keep in mind that it takes some time (usually few weeks) for the immune system to build immunity after the vaccination, so it's still possible during that time window to get the disease. 
 
 # How does the mRNA vaccine work?
 
 ![How does the mRNA vaccine work - english evrsion](images/vaccine.svg)
 
-Here you can see what happens to our cells when they get in contact with SARS-CoV-2 (the virus that causes the COVID-19 disease) **before, during and after the vaccination with mRNA vaccine.** 
-mRNA vaccines are not the only type of vaccine available against COVID-19, but for simplicity are the ones described in this infographic.
+Here you can see what happens to our cells when they come into contact with SARS-CoV-2 (the virus that causes the COVID-19 disease) **before, during and after the vaccination with the mRNA vaccine.** 
+mRNA vaccines are not the only type of vaccine available against COVID-19, but for simplicity are the only ones described in this infographic.
 
 
 [syringe image source](https://pixabay.com/users/janjf93-3084263/)
 
 # What is an mRNA after all? 
 
-Well, while you might have heard of mRNA vaccines in the recent news headlines, mRNA is all but recent. Infact, mRNA has been produced and destroyed by your cells every second since you were born, and it's **naturally part of how our body works.**
-You can find a dedicated illustration in the [Cell_Biology](https://easy-infographics.github.io/Cell Biology) section. 
+Well, while you might have heard of mRNA vaccines in the recent news headlines, mRNA is all but recent. In fact, mRNA has been produced and destroyed by your cells every second since you were born, and it's **naturally part of how our body works.**
+You can find a dedicated illustration in the [Cell_Biology](https://easy-infographics.github.io/Cell_Biology) section. 
 
 **more illustrations coming soon :)**
 
