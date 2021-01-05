@@ -1,8 +1,6 @@
 
 
-**Check out this page also in other languages:**
-
-🇬🇧 [english](../en/)
+**Check out this page also in other languages:** 🇬🇧 [English](../en/)
 
 Here are collected my infographics on the broad topic of cellular biology in English. 
 **These illustrations aim at answering in a clear and simplified way specific questions that were asked to me**, by friends and family. 
