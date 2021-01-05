@@ -11,9 +11,9 @@ In questa sezione sono raccolte le infografiche sull'argomento "biologia della c
 
 L'RNA messaggero (o mRNA) e' un elemento essenziale delle nostre cellule, in quanto consente al nostro corpo di produrre proteine usando le istruzioni contenute nel nostro DNA. L'RNA messaggero viene continuamente prodotto dalle cellule del nostro corpo, in modo del tutto naturale.  
 
-Se vuoi maggiori infomazioni su come funziona il vaccino ad RNA messaggero contro il COVID-19, visita la sezione [COVID-19](https://easy-infographics.github.io/COVID-19/it/). 
+**Se vuoi maggiori infomazioni su come funziona il vaccino ad RNA messaggero contro il COVID-19, visita la sezione [COVID-19](https://easy-infographics.github.io/COVID-19/it/).** 
 
-**altre illustrazioni sono in preparazione :)**
+**Altre illustrazioni sono in preparazione :)**
 
 ***
 
