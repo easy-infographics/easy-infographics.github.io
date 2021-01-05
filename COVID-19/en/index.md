@@ -26,9 +26,9 @@ Syringe image obtained from [Pixabay](https://pixabay.com/users/janjf93-3084263/
 ### What is an mRNA after all? 
 
 Well, while you might have heard of mRNA vaccines in the recent news headlines, mRNA is all but recent. In fact, mRNA has been produced and destroyed by your cells every second since you were born, and it's **naturally part of how our body works.**
-You can find a dedicated illustration in the [Cell Biology](https://easy-infographics.github.io/Cell_Biology) section. 
+**You can find a dedicated illustration in the [Cell Biology](https://easy-infographics.github.io/Cell_Biology) section.**
 
-**more illustrations coming soon :)**
+more illustrations coming soon :)
 
 ***
 
