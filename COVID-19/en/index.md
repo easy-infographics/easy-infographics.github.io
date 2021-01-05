@@ -1,3 +1,4 @@
+[Go to the main page](https://easy-infographics.github.io/)
 
 **Check out this page also in other languages:** 🇮🇹  [italian](../it/)
 
