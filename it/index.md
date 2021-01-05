@@ -7,8 +7,8 @@ Questo progetto ha lo scopo di fornire infografiche chiare e comprensibili ad un
 
 ### Argomenti:
 
-- [COVID-19](COVID-19/)
-- [Biologia della cellula](Cell_Biology/)
+- [COVID-19](../COVID-19/it/)
+- [Biologia della cellula](../Cell_Biology/it/)
 
 ### Licenza
 

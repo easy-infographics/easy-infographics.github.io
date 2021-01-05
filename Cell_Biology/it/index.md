@@ -1,4 +1,4 @@
-[Vai alla Home (in Inglese)](https://easy-infographics.github.io/)
+[Vai alla Home](https://easy-infographics.github.io/it/)
 
 **Visualizza questa pagina in:** 🇬🇧 [Inglese](../en/)
 
