@@ -21,7 +21,7 @@ This illustration aims to show, in a colorful and fun way, what happens when SAR
 Here you can see what happens to our cells when they come into contact with SARS-CoV-2 (the virus that causes the COVID-19 disease) **before, during and after the vaccination with the mRNA vaccine.** 
 mRNA vaccines are not the only type of vaccine available against COVID-19, but for simplicity are the only ones described in this infographic.
 
-Syringe image obtained from [pixabay](https://pixabay.com/users/janjf93-3084263/)
+Syringe image obtained from [Pixabay](https://pixabay.com/users/janjf93-3084263/)
 
 ### What is an mRNA after all? 
 
@@ -29,6 +29,8 @@ Well, while you might have heard of mRNA vaccines in the recent news headlines, 
 You can find a dedicated illustration in the [Cell Biology](https://easy-infographics.github.io/Cell_Biology) section. 
 
 **more illustrations coming soon :)**
+
+***
 
 ### Conflict of interests
 
