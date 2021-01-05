@@ -1,5 +1,5 @@
 
-**Check out this page also in other languages: ** 🇮🇹  [italian](../it/)
+**Check out this page also in other languages:** 🇮🇹  [italian](../it/)
 
 Here are collected the infographics on COVID-19. When not done by me, you can find the author(s) credits below the illustration. 
 **These illustrations aim at answering in a clear and simplified way specific questions that were asked to me**, by friends and family members. 
