@@ -1,5 +1,5 @@
 
-[Vai alla Home (in Inglese)](https://easy-infographics.github.io/)
+[Vai alla Home](https://easy-infographics.github.io/it/)
 
 **Visualizza questa pagina in:** 🇬🇧 [Inglese](../en/)
 
@@ -14,6 +14,7 @@ In questa sezione sono raccolte le infografiche sull'argomento "COVID-19".
 This illustration aims to show, in a colorful and fun way, what happens when SARS-CoV-2 encounters a human cell. There are three scenarios: before, during and after the vaccination.
 **Vaccination allows our immune system to "remember" the virus and in case of a future encounter our body will be able to respond in a rapid and effective way.**
 
+
 # Come funziona il vaccino ad RNA messaggero (o mRNA)?
 
 ![How does the mRNA vaccine work - versione italiana](images/vaccine.svg)
@@ -21,8 +22,8 @@ This illustration aims to show, in a colorful and fun way, what happens when SAR
 Here you can see what happens to our cells when they come into contact with SARS-CoV-2 (the virus that causes the COVID-19 disease) **before, during and after the vaccination with the mRNA vaccine.** 
 mRNA vaccines are not the only type of vaccine available against COVID-19, but for simplicity are the only ones described in this infographic.
 
+Immagine siringa da [pixabay](https://pixabay.com/users/janjf93-3084263/)
 
-[fonte immagine siringa](https://pixabay.com/users/janjf93-3084263/)
 
 # Cosa e' l'RNA messaggero? 
 

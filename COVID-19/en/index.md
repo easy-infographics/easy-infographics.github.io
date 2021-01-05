@@ -5,12 +5,14 @@
 Below you will find a collection of infographics on COVID-19. When not created by me, you can find the author(s) credits below the illustration. 
 **These illustrations aim to answer specific question asked to me in a clear and simplified way**. 
 
+
 # Why are vaccines useful?
 
 **credits for this illustration: Eleonora Nigro (Twitter: @nigrelex)**
 
 This illustration aims to show, in a colorful and fun way, what happens when SARS-CoV-2 encounters a human cell. There are three scenarios: before, during and after the vaccination.
 **Vaccination allows our immune system to "remember" the virus and in case of a future encounter our body will be able to respond in a rapid and effective way.**
+
 
 # How does the mRNA vaccine work?
 
@@ -19,8 +21,8 @@ This illustration aims to show, in a colorful and fun way, what happens when SAR
 Here you can see what happens to our cells when they come into contact with SARS-CoV-2 (the virus that causes the COVID-19 disease) **before, during and after the vaccination with the mRNA vaccine.** 
 mRNA vaccines are not the only type of vaccine available against COVID-19, but for simplicity are the only ones described in this infographic.
 
+Syringe image obtained from [pixabay](https://pixabay.com/users/janjf93-3084263/)
 
-[syringe image source](https://pixabay.com/users/janjf93-3084263/)
 
 # What is an mRNA after all? 
 
