@@ -8,7 +8,7 @@ Below you will find a collection of infographics on COVID-19. When not created b
 
 # Why are vaccines useful?
 
-**credits for this illustration: Eleonora Nigro (Twitter: [@nigrelex](https://twitter.com/nigrelex?lang=en#:~:text=Eleonora%20Nigro%20(%40nigrelex)%20%7C%20Twitter))**
+**credits for this illustration: Eleonora Nigro (Twitter: [@enigrox](https://twitter.com/enigrox))**
 
 This illustration aims to show, in a colorful and fun way, what happens when SARS-CoV-2 encounters a human cell. There are three scenarios: before, during and after the vaccination.
 **Vaccination allows our immune system to "remember" the virus and in case of a future encounter our body will be able to respond in a rapid and effective way.**
