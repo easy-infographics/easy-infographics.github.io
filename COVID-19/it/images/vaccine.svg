@@ -34,9 +34,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.5737249"
+     inkscape:zoom="1.572381"
      inkscape:cx="526.1811"
-     inkscape:cy="372.04724"
+     inkscape:cy="202.25882"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -767,7 +767,7 @@
          y="879.42206"
          x="27.925949"
          sodipodi:role="line"
-         id="tspan5122">essere stati vaccinati</tspan></text>
+         id="tspan5122">essere stati vaccinati*</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#646464;stroke-width:1.48300004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 16.567499,562.58837 1030.3944,561.95276"
@@ -6204,5 +6204,54 @@
        height="714.55469"
        x="8.2481594"
        y="316.82422" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5195"
+       y="921.4928"
+       x="18.043554"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5220"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial"
+         y="921.4928"
+         x="18.043554"
+         sodipodi:role="line"><tspan
+   id="tspan5222"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'">*</tspan> Dopo il vaccino</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial"
+         y="935.5553"
+         x="18.043554"
+         sodipodi:role="line"
+         id="tspan5269">e' necessario del </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial"
+         y="949.6178"
+         x="18.043554"
+         sodipodi:role="line"
+         id="tspan5237">tempo (solitamente </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial"
+         y="963.6803"
+         x="18.043554"
+         sodipodi:role="line"
+         id="tspan5233">poche settimane)</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial"
+         y="977.7428"
+         x="18.043554"
+         sodipodi:role="line"
+         id="tspan5261">perche' il sistema </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial"
+         y="991.8053"
+         x="18.043554"
+         sodipodi:role="line"
+         id="tspan5244">immunitario sia in </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial"
+         y="1005.8678"
+         x="18.043554"
+         sodipodi:role="line"
+         id="tspan5267">grado di fornire </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial"
+         y="1019.9303"
+         x="18.043554"
+         sodipodi:role="line"
+         id="tspan5246">protezione contro il virus  </tspan></text>
   </g>
 </svg>

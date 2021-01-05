@@ -34,16 +34,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1127915"
-     inkscape:cx="613.69631"
-     inkscape:cy="252.15699"
+     inkscape:zoom="1.572381"
+     inkscape:cx="423.15263"
+     inkscape:cy="372.04724"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="2560"
      inkscape:window-height="1353"
-     inkscape:window-x="-5"
-     inkscape:window-y="37"
+     inkscape:window-x="12"
+     inkscape:window-y="33"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -643,7 +643,7 @@
          y="879.42206"
          x="29.925949"
          sodipodi:role="line"
-         id="tspan5122">being vaccinated </tspan></text>
+         id="tspan5122">being vaccinated* </tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#646464;stroke-width:1.08286047;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 18.567499,562.58837 1032.3944,561.95276"
@@ -6248,5 +6248,47 @@
            y="723.20654"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle">DNA </tspan></text>
     </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5211"
+       y="964.96527"
+       x="18.771601"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5250"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial"
+         y="964.96527"
+         x="18.771601"
+         sodipodi:role="line"><tspan
+           id="tspan5265"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial">*after the vaccination,</tspan></tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial"
+         y="979.02777"
+         x="18.771601"
+         sodipodi:role="line"
+         id="tspan5222"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial"
+           id="tspan5224">some time is needed </tspan></tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial"
+         y="993.09027"
+         x="18.771601"
+         sodipodi:role="line"
+         id="tspan5290"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial"
+           id="tspan5292">(usually few weeks) </tspan></tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial"
+         y="1007.1528"
+         x="18.771601"
+         sodipodi:role="line"
+         id="tspan5294"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial"
+           id="tspan5296">for the immune system </tspan></tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial"
+         y="1021.2153"
+         x="18.771601"
+         sodipodi:role="line"
+         id="tspan5298"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial"
+           id="tspan5300">to build immunity</tspan></tspan></text>
   </g>
 </svg>
