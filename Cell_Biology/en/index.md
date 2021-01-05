@@ -17,6 +17,8 @@ If you are interested in how the mRNA vaccine for COVID-19 works, check out the 
 
 **more illustrations coming soon :)**
 
+***
+
 ### Conflict of interests
 
 None.
