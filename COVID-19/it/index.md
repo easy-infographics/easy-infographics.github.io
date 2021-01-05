@@ -22,7 +22,7 @@ This illustration aims to show, in a colorful and fun way, what happens when SAR
 Here you can see what happens to our cells when they come into contact with SARS-CoV-2 (the virus that causes the COVID-19 disease) **before, during and after the vaccination with the mRNA vaccine.** 
 mRNA vaccines are not the only type of vaccine available against COVID-19, but for simplicity are the only ones described in this infographic.
 
-Immagine siringa da [pixabay](https://pixabay.com/users/janjf93-3084263/)
+Immagine siringa da [Pixabay](https://pixabay.com/users/janjf93-3084263/)
 
 
 # Cosa e' l'RNA messaggero? 
@@ -32,6 +32,8 @@ Puoi trovare un'illustrazione dedicata a cosa e' esattamente l'RNA messaggero e 
 
 
 **altre illustrazioni sono in preparazione :)**
+
+***
 
 ### Dichiarazione di conflitto di interessi
 
