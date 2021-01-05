@@ -13,8 +13,9 @@ L'RNA messaggero (o mRNA) e' un elemento essenziale delle nostre cellule, in qua
 
 Se vuoi maggiori infomazioni su come funziona il vaccino ad RNA messaggero contro il COVID-19, visita la sezione [COVID-19](https://easy-infographics.github.io/COVID-19/it/). 
 
-
 **altre illustrazioni sono in preparazione :)**
+
+***
 
 ### Dichiarazione di conflitto di interessi
 
