@@ -1,17 +1,19 @@
 
+[Go to the main page](https://easy-infographics.github.io/)
 
-**Check out this page also in other languages:**
+**Check out this page also in other languages:** 🇮🇹  [italian](../it/)
 
-🇮🇹  [italian](../it/)
-
-Here are collected my infographics on the broad topic of cellular biology in English. 
+Here are collected the infographics on cellular biology. 
 **These illustrations aim at answering in a clear and simplified way specific questions that were asked to me**, by friends and family. 
 
-# What is the mRNA? 
-
-Well, while you might have heard of mRNA vaccines in the recent news headlines, mRNA is all but recent. Infact, mRNA has been produced and destroyed by your cells every second since you were born, and it's **naturally part of how our body works.**
+# What is the messenger RNA or mRNA? 
 
 ![mRNA_cell.svg - English version](images/mRNA_cell.svg)
+
+The messenger RNA (or mRNA) is an essential element of our cells, that allows our body to create proteins using the set of instructions present in the DNA. Messenger RNA is naturally produced and destroyed by the cells of our body at any given time. 
+
+If you are interested in how the mRNA vaccine for COVID-19 works, check out the [COVID-19](https://easy-infographics.github.io/COVID-19/en/) section. 
+
 
 **more illustrations coming soon :)**
 
