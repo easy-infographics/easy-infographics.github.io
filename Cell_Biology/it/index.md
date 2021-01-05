@@ -1,27 +1,33 @@
+[Vai alla Home (in Inglese)](https://easy-infographics.github.io/)
+
+**Visualizza questa pagina in:** 🇬🇧 [Inglese](../en/)
+
+In questa sezione sono raccolte le infografiche sull'argomento "biologia della cellula". 
+**Queste illustrazioni hanno lo scopo di rispondere, in modo semplice e chiaro, a specifiche domande che mi sono state poste.** 
+
+# Cosa e' l' RNA messaggero o mRNA? 
+
+![mRNA_cellula.svg - versione italiana](images/mRNA_cell.svg)
+
+L'RNA messaggero (o mRNA) e' un elemento essenziale delle nostre cellule, in quanto consente al nostro corpo di produrre proteine usando le istruzioni contenute nel nostro DNA. L'RNA messaggero viene continuamente prodotto dalle cellule del nostro corpo, in modo del tutto naturale.  
+
+Se vuoi maggiori infomazioni su come funziona il vaccino ad RNA messaggero contro il COVID-19, visita la sezione [COVID-19](https://easy-infographics.github.io/COVID-19/it/). 
 
 
-**Check out this page also in other languages:** 🇬🇧 [English](../en/)
+**altre illustrazioni sono in preparazione :)**
 
-Here are collected my infographics on the broad topic of cellular biology in English. 
-**These illustrations aim at answering in a clear and simplified way specific questions that were asked to me**, by friends and family. 
+### Dichiarazione di conflitto di interessi
 
-# What is an mRNA after all? 
+Nessuno.
 
-Well, while you might have heard of mRNA vaccines in the recent news headlines, mRNA is all but recent. Infact, mRNA has been produced and destroyed by your cells every second since you were born, and it's **naturally part of how our body works.**
-You can find a dedicated illustration in [what is mRNA -english version]() in the [Cell Biology]() section. 
+### Finanziamento
 
-**more illustrations coming soon :)**
+Nessuno. 
 
-### Conflict of interests
 
-None.
+### Licenza
 
-### Funding
-
-This project is the result of my spare time, and the one of the people (see section below) that collaborated in the process of making and revising the illustrations. 
-
-### License
-This work is licensed under a
+Quest’opera è stata rilasciata con licenza 
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]

@@ -26,6 +26,7 @@ None.
 This project is the result of my spare time, and the one of the people (see section below) that collaborated in the process of making and revising the illustrations. 
 
 ### License
+
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 

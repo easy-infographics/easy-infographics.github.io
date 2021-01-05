@@ -14,7 +14,7 @@ This illustration aims to show, in a colorful and fun way, what happens when SAR
 
 # How does the mRNA vaccine work?
 
-![How does the mRNA vaccine work - english evrsion](images/vaccine.svg)
+![How does the mRNA vaccine work - english version](images/vaccine.svg)
 
 Here you can see what happens to our cells when they come into contact with SARS-CoV-2 (the virus that causes the COVID-19 disease) **before, during and after the vaccination with the mRNA vaccine.** 
 mRNA vaccines are not the only type of vaccine available against COVID-19, but for simplicity are the only ones described in this infographic.
@@ -38,6 +38,7 @@ None.
 This project is the result of my spare time, and the one of the people that collaborated in the process of making and revising the illustrations. 
 
 ### License
+
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
