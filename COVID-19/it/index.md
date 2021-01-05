@@ -33,8 +33,7 @@ Puoi trovare un'illustrazione dedicata a cosa e' esattamente l'RNA messaggero e 
 
 **altre illustrazioni sono in preparazione :)**
 
-------
-======
+***
 
 ### Dichiarazione di conflitto di interessi
 
