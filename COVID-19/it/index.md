@@ -25,7 +25,7 @@ mRNA vaccines are not the only type of vaccine available against COVID-19, but f
 Immagine siringa da [Pixabay](https://pixabay.com/users/janjf93-3084263/)
 
 
-# Cosa e' l'RNA messaggero? 
+### Cosa e' l'RNA messaggero? 
 
 Molto probabilmente avete sentito parlare di RNA messaggero nei recenti notiziari. Tuttavia, l'RNA messaggero non e' affatto recente. Infatti, l'RNA messaggero viene prodotto in continuazione dalle cellule del nostro corpo, fin dalla nascita. L'RNA messaggero e' un componente naturale del corretto funzionamento delle nostre cellule. 
 **Puoi trovare un'illustrazione dedicata a cosa e' esattamente l'RNA messaggero e che ruolo svolge nelle nostre cellule nella sezione [Biologia della cellula](https://easy-infographics.github.io/Cell_Biology/it/).** 
