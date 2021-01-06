@@ -2,8 +2,8 @@
 
 ### What is this page about?
 
-With this project I hope to provide **easy-to-understand infographics about science-related topics**, making them available to a broader audience.
-**I believe science outreach is an essential pillar of scientific research**, and I think we need, now more then ever, a bridge to help citizens of the world understand better the recent scientific advancements. 
+With this project we hope to provide **easy-to-understand infographics about science-related topics**, making them available to a broader audience.
+**We believe science outreach is an essential pillar of scientific research**, and we think we need, now more then ever, a bridge to help citizens of the world understand better the recent scientific advancements. 
 
 ### Topics:
 
