@@ -3,7 +3,7 @@
 ### Di cosa si tratta questo progetto?
 
 Questo progetto ha lo scopo di fornire infografiche chiare e comprensibili ad un vasto pubblico. 
-**Credo fortemente che la divulgazione sia un pilastro essenziale della ricerca scientifica**, e credo che ci sia la necessita', ora piu' che mai, di creare un ponte che aiuti il pubblico a capire i recenti sviluppi scientifici. 
+**Crediamo fortemente che la divulgazione sia un pilastro essenziale della ricerca scientifica**, e crediamo che ci sia la necessita', ora piu' che mai, di creare un ponte che aiuti il pubblico a capire i recenti sviluppi scientifici. 
 
 ### Argomenti:
 
