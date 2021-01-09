@@ -8,7 +8,6 @@ Below you will find a collection of infographics on cellular biology.
 
 # What is the messenger RNA or mRNA? 
 [![mRNA_cell.svg - English version](images/mRNA_cell.svg)](images/mRNA_cell.svg)
-![mRNA_cell.svg - English version](images/mRNA_cell.svg)
 
 The messenger RNA (or mRNA) is an essential element of our cells, that allows our body to create proteins using the set of instructions present in our DNA. Messenger RNA is naturally and continuously produced by the cells of our body at any given time. 
 
