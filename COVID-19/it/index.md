@@ -15,7 +15,7 @@ This illustration aims to show, in a colorful and fun way, what happens when SAR
 **Vaccination allows our immune system to "remember" the virus and in case of a future encounter our body will be able to respond in a rapid and effective way.**
 
 
-# Come funziona il vaccino ad RNA messaggero (o mRNA)?
+# Come funziona il vaccino COVID-19 ad RNA messaggero (o mRNA)?
 
 [![How does the mRNA vaccine work - versione italiana](images/vaccine.svg)](images/vaccine.svg)
 
