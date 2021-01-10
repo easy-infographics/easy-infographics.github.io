@@ -14,9 +14,9 @@ This illustration aims to show, in a colorful and fun way, what happens when SAR
 **Vaccination allows our immune system to "remember" the virus. In case of a future encounter, our body will be able to respond to it in a rapid and effective way.**
 
 
-# How does the mRNA vaccine work?
+# How does the COVID-19 mRNA vaccine work?
 
-![How does the mRNA vaccine work - english version](images/vaccine.svg)
+[![How does the mRNA vaccine work - english version](images/vaccine.svg)](images/vaccine.svg)
 
 Here you can see what happens to our cells when they come into contact with SARS-CoV-2 (the virus that causes the COVID-19 disease) **before, during and after the vaccination with the mRNA vaccine.** 
 mRNA vaccines are not the only type of vaccine available against COVID-19, but for simplicity are the only ones described in this infographic. Approved COVID-19 mRNA vaccines include those produced by Pfizer-BioNTech and Moderna.
