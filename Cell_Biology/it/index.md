@@ -7,7 +7,7 @@ In questa sezione sono raccolte le infografiche sull'argomento "biologia della c
 
 # Cosa e' l' RNA messaggero o mRNA? 
 
-![mRNA_cellula.svg - versione italiana](images/mRNA_cell.svg)
+[![mRNA_cell.svg - versione italiana](images/mRNA_cell.svg)](images/mRNA_cell.svg)
 
 L'RNA messaggero (o mRNA) e' un elemento essenziale delle nostre cellule, in quanto consente al nostro corpo di produrre proteine usando le istruzioni contenute nel nostro DNA. L'RNA messaggero viene continuamente prodotto dalle cellule del nostro corpo, in modo del tutto naturale.  
 
