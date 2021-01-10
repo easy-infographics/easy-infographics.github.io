@@ -1,4 +1,4 @@
-**Visualizza questa pagina in:** 🇬🇧 [Inglese](../)
+**Visualizza questa pagina in:** 🇬🇧 [Inglese](../) 🇵🇹 [Portoghese](../pt/)
 
 ### Di cosa tratta questo progetto?
 
