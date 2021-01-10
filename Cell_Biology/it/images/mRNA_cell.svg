@@ -37,13 +37,13 @@
      inkscape:cx="744.09449"
      inkscape:cy="526.1811"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4430"
      showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="813"
-     inkscape:window-x="0"
-     inkscape:window-y="1"
-     inkscape:window-maximized="1" />
+     inkscape:window-x="500"
+     inkscape:window-y="120"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -52,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1149,7 +1149,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start"
            y="481.0481"
            x="554.24316"
-           sodipodi:role="line">Consideriamo che la cellula abbia bisogno di questa proteina: </tspan><tspan
+           sodipodi:role="line">Ipotizziamo che la cellula abbia bisogno di questa proteina: </tspan><tspan
            id="tspan4489"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start"
            y="495.1106"
@@ -1182,7 +1182,7 @@
       <path
          inkscape:transform-center-y="-0.81157186"
          inkscape:transform-center-x="0.17026962"
-         d="m 879.98647,484.63028 -6.16267,-2.82649 -5.82211,3.47428 0.78378,-6.73448 -5.10336,-4.46355 6.64707,-1.33564 2.66806,-6.2329 3.32433,5.90901 6.75232,0.6114 -4.59253,4.98761 z"
+         d="m 867.26705,484.63028 -6.16267,-2.82649 -5.82211,3.47428 0.78378,-6.73448 -5.10336,-4.46355 6.64707,-1.33564 2.66806,-6.2329 3.32433,5.90901 6.75232,0.6114 -4.59253,4.98761 z"
          inkscape:randomized="0"
          inkscape:rounded="0"
          inkscape:flatsided="false"
@@ -1191,7 +1191,7 @@
          sodipodi:r2="5.1048713"
          sodipodi:r1="10.209743"
          sodipodi:cy="476.70636"
-         sodipodi:cx="873.54828"
+         sodipodi:cx="860.82887"
          sodipodi:sides="5"
          id="path6487"
          style="opacity:0.93000034;fill:#0055d4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.55105621;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
