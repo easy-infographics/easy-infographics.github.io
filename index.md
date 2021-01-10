@@ -1,4 +1,4 @@
-**Check out this page also in other languages:** 🇮🇹  [Italian](/it/)
+**Check out this page also in other languages:** 🇮🇹  [Italian](/it/) 🇵🇹 [Portuguese](../pt/)
 
 ### What is this page about?
 
