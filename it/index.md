@@ -10,6 +10,11 @@ Questo progetto ha lo scopo di fornire infografiche chiare e comprensibili ad un
 - [COVID-19](../COVID-19/it/)
 - [Biologia della cellula](../Cell_Biology/it/)
 
+### Come contribuire
+
+Vuoi suggerire la prossima infografica? Vuoi contribuire con una tua illustrazione o vuoi unirti al gruppo? 
+Contattami via Twitter [@pam_ferretti](https://twitter.com/pam_ferretti)! :)
+
 ### Licenza
 
 Quest’opera è stata rilasciata con licenza 
