@@ -9,18 +9,20 @@ In questa sezione sono raccolte le infografiche sull'argomento "COVID-19".
 
 # Perche' i vaccini sono utili?
 
-**credits for this illustration: Eleonora Nigro (Twitter: [@enigrox](https://twitter.com/enigrox))**
+**Autore: Eleonora Nigro**
 
-This illustration aims to show, in a colorful and fun way, what happens when SARS-CoV-2 encounters a human cell. There are three scenarios: before, during and after the vaccination.
-**Vaccination allows our immune system to "remember" the virus and in case of a future encounter our body will be able to respond in a rapid and effective way.**
+Questa illustrazione ha lo scopo di spiegare, in modo colorato e divertente, come funziona il vaccino ad RNA messaggero (o mRNA) contro il COVID-19 e cosa accade alle cellule del nostro corpo quando incontrano il virus. 
+**La vaccinazione consente al sistema immunitario di "ricordare" il virus e di essere in grado di reagire in modo rapido ed efficace in caso di una futura infezione**
 
 
 # Come funziona il vaccino COVID-19 ad RNA messaggero (o mRNA)?
 
 [![How does the mRNA vaccine work - versione italiana](images/vaccine.svg)](images/vaccine.svg)
 
-Here you can see what happens to our cells when they come into contact with SARS-CoV-2 (the virus that causes the COVID-19 disease) **before, during and after the vaccination with the mRNA vaccine.** 
-mRNA vaccines are not the only type of vaccine available against COVID-19, but for simplicity are the only ones described in this infographic.
+**Autore: Pamela Ferretti**
+
+L'illustrazione spiega cosa accade alle nostre cellule quando incontrano SARS-CoV-2 (il virus che causa la malattia chiamata COVID-19) **prima, durante e dopo la vaccinazione con il vaccino ad mRNA** 
+I vaccini ad mRNA non sono l'unica tipologia di vaccino disponibile contro COVID-19, ma per ragioni di spazio e semplicita' sono gli unici descritti in questa illustrazione.
 
 Immagine siringa da [Pixabay](https://pixabay.com/users/janjf93-3084263/)
 
@@ -34,6 +36,15 @@ Molto probabilmente avete sentito parlare di RNA messaggero nei recenti notiziar
 altre illustrazioni sono in preparazione :)
 
 ***
+
+### Riconoscimenti
+
+Per le illustrazioni:
+
+* **Pamela Ferretti** : Sono una studentessa di dottorato in Biologia Computazionale presso l'EMBL ad Heidelberg (Germania), dove studio i batteri e il loro ruolo nella salute umana. Twitter: [@pam_ferretti](https://twitter.com/pam_ferretti)
+
+* **Eleonora Nigro** : Twitter: [@enigrox](https://twitter.com/enigrox)
+
 
 ### Dichiarazione di conflitto di interessi
 
