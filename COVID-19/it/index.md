@@ -9,8 +9,6 @@ In questa sezione sono raccolte le infografiche sull'argomento "COVID-19".
 
 # Perche' i vaccini sono utili?
 
-**Autore: Eleonora Nigro**
-
 Questa illustrazione ha lo scopo di spiegare, in modo colorato e divertente, come funziona il vaccino ad RNA messaggero (o mRNA) contro il COVID-19 e cosa accade alle cellule del nostro corpo quando incontrano il virus. 
 **La vaccinazione consente al sistema immunitario di "ricordare" il virus e di essere in grado di reagire in modo rapido ed efficace in caso di una futura infezione**
 
@@ -18,8 +16,6 @@ Questa illustrazione ha lo scopo di spiegare, in modo colorato e divertente, com
 # Come funziona il vaccino COVID-19 ad RNA messaggero (o mRNA)?
 
 [![How does the mRNA vaccine work - versione italiana](images/vaccine.svg)](images/vaccine.svg)
-
-**Autore: Pamela Ferretti**
 
 L'illustrazione spiega cosa accade alle nostre cellule quando incontrano SARS-CoV-2 (il virus che causa la malattia chiamata COVID-19) **prima, durante e dopo la vaccinazione con il vaccino ad mRNA** 
 I vaccini ad mRNA non sono l'unica tipologia di vaccino disponibile contro COVID-19, ma per ragioni di spazio e semplicita' sono gli unici descritti in questa illustrazione.
