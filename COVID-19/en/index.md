@@ -40,7 +40,7 @@ For creating the illustrations:
 
 * **Eleonora Nigro** : Twitter: [@enigrox](https://twitter.com/enigrox)
 
-For reviewing the illustrations and text: Conor R. Walker, Renato Alves
+For reviewing the illustrations and text: **Conor R. Walker**, **Renato Alves**
 
 ### Conflict of interests
 
