@@ -10,7 +10,7 @@ Below you will find a collection of infographics on COVID-19. When not created b
 
 **credits for this illustration: Eleonora Nigro (Twitter: [@enigrox](https://twitter.com/enigrox))**
 
-This illustration aims to show, in a colorful and fun way, what happens when SARS-CoV-2 encounters a human cell. There are three scenarios: before, during and after the vaccination.
+This illustration aims to show, in a colorful and fun way, how does the mRNA vaccine work and what happens when SARS-CoV-2 encounters a human cell (with and without the vaccination).
 **Vaccination allows our immune system to "remember" the virus. In case of a future encounter, our body will be able to respond to it in a rapid and effective way.**
 
 
@@ -31,6 +31,16 @@ Well, while you might have heard of mRNA vaccines in the recent news headlines, 
 more illustrations coming soon :)
 
 ***
+
+### Credits
+
+For creating the illustrations:
+
+* **Pamela Ferretti** : I'm a PhD student in computational biology at EMBL Heidelberg (Germany), where I study bacteria and their role in human health. Twitter: [@pam_ferretti](https://twitter.com/pam_ferretti)
+
+* **Eleonora Nigro** : Twitter: [@enigrox](https://twitter.com/enigrox)
+
+For reviewing the illustrations and text: Conor R. Walker, Renato Alves
 
 ### Conflict of interests
 
