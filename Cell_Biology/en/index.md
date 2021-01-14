@@ -18,6 +18,15 @@ more illustrations coming soon :)
 
 ***
 
+### Credits
+
+For creating the illustrations:
+
+* **Pamela Ferretti** : I'm a PhD student in computational biology at EMBL Heidelberg (Germany), where I study bacteria and their role in human health. Twitter: [@pam_ferretti](https://twitter.com/pam_ferretti)
+
+For reviewing the illustrations and text: **Conor R. Walker**, **Renato Alves**
+
+
 ### Conflict of interests
 
 None.
