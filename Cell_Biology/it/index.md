@@ -17,6 +17,13 @@ Altre illustrazioni sono in preparazione :)
 
 ***
 
+### Riconoscimenti
+
+Per le illustrazioni:
+
+* **Pamela Ferretti** : Sono una studentessa di dottorato in Biologia Computazionale presso l'EMBL ad Heidelberg (Germania), dove studio i batteri e il loro ruolo nella salute umana. Twitter: [@pam_ferretti](https://twitter.com/pam_ferretti)
+
+
 ### Dichiarazione di conflitto di interessi
 
 Nessuno.
