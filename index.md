@@ -12,7 +12,7 @@ With this project we hope to provide **easy-to-understand infographics about sci
 
 ### How to get involved
 
-Would you like to suggest the next infographic? Do you want to contribute with your own illustration or want to joint the efforts? 
+Would you like to suggest the next infographic? Do you want to contribute with your own illustration or want to join the team? 
 Contact me via Twitter [@pam_ferretti](https://twitter.com/pam_ferretti)! :)
 
 ### License
