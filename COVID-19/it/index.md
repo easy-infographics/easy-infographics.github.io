@@ -42,8 +42,9 @@ Per le illustrazioni:
 
 * **Pamela Ferretti** : Sono una studentessa di dottorato in Biologia Computazionale presso l'EMBL a Heidelberg (Germania), dove studio i batteri e il loro ruolo nella salute umana. Twitter: [@pam_ferretti](https://twitter.com/pam_ferretti)
 
-* **Eleonora Nigro** : Twitter: [@enigrox](https://twitter.com/enigrox)
+* **Eleonora Nigro** : Sono un'assistente di ricerca presso l'Universita' di Copenhagen, dove studio i batteri e le loro interazioni metaboliche nel tratto gastrointestinale umano... Oltre a studiare i batteri, mi diverto a disegnarli nel tempo libero! Twitter: [@enigrox](https://twitter.com/enigrox)
 
+Per i numerosi ad utili suggerimenti sul testo sia delle illustrazioni che del sito: Marilena Ferretti
 
 ### Dichiarazione di conflitto di interessi
 
