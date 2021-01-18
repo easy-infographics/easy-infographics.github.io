@@ -7,13 +7,16 @@ In questa sezione sono raccolte le infografiche sull'argomento "COVID-19".
 **Queste illustrazioni hanno lo scopo di rispondere, in modo semplice e chiaro, a specifiche domande che mi sono state poste.** 
 
 
-# Perche' i vaccini sono utili?
-
-Questa illustrazione ha lo scopo di spiegare, in modo colorato e divertente, come funziona il vaccino ad RNA messaggero (o mRNA) contro il COVID-19 e cosa accade alle cellule del nostro corpo quando incontrano il virus. 
-**La vaccinazione consente al sistema immunitario di "ricordare" il virus e di essere in grado di reagire in modo rapido ed efficace in caso di una futura infezione**
-
 
 # Come funziona il vaccino COVID-19 ad RNA messaggero (o mRNA)?
+
+[![How does the mRNA vaccine work - cartoon versione italiana](images/cartoon_vaccine_IT.svg)](images/cartoon_vaccine_IT.svg)
+
+Questa illustrazione ha lo scopo di spiegare, in modo colorato e divertente, come funziona il vaccino ad RNA messaggero (o mRNA) contro il COVID-19 e cosa accade alle cellule del nostro corpo quando incontrano il virus. Credits: Eleonora Nigro.
+
+### Perche' i vaccini sono utili?
+
+**La vaccinazione consente al sistema immunitario di "ricordare" il virus e di essere in grado di reagire in modo rapido ed efficace in caso di una futura infezione**
 
 [![How does the mRNA vaccine work - versione italiana](images/vaccine.svg)](images/vaccine.svg)
 
@@ -23,7 +26,7 @@ I vaccini ad mRNA non sono l'unica tipologia di vaccino disponibile contro COVID
 Immagine siringa da [Pixabay](https://pixabay.com/users/janjf93-3084263/)
 
 
-### Cosa e' l'RNA messaggero? 
+### Cosa e' l'RNA messaggero o mRNA? 
 
 Molto probabilmente avete sentito parlare di RNA messaggero nei recenti notiziari. Tuttavia, l'RNA messaggero non e' affatto recente. Infatti, l'RNA messaggero viene prodotto in continuazione dalle cellule del nostro corpo, fin dalla nascita. L'RNA messaggero e' un componente naturale del corretto funzionamento delle nostre cellule. 
 **Puoi trovare un'illustrazione dedicata a cosa e' esattamente l'RNA messaggero e che ruolo svolge nelle nostre cellule nella sezione [Biologia della cellula](https://easy-infographics.github.io/Cell_Biology/it/).** 
