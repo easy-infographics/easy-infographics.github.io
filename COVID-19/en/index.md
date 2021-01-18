@@ -8,13 +8,14 @@ Below you will find a collection of infographics on COVID-19. When not created b
 
 # Why are vaccines useful?
 
+
+# How does the COVID-19 mRNA vaccine work?
+
+[![How does the mRNA vaccine work - english version](images/vaccine.svg)](images/cartoon_vaccine_EN.svg)
 **credits for this illustration: Eleonora Nigro (Twitter: [@enigrox](https://twitter.com/enigrox))**
 
 This illustration aims to show, in a colorful and fun way, how does the mRNA vaccine work and what happens when SARS-CoV-2 encounters a human cell (with and without the vaccination).
 **Vaccination allows our immune system to "remember" the virus. In case of a future encounter, our body will be able to respond to it in a rapid and effective way.**
-
-
-# How does the COVID-19 mRNA vaccine work?
 
 [![How does the mRNA vaccine work - english version](images/vaccine.svg)](images/vaccine.svg)
 
