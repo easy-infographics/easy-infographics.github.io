@@ -1,4 +1,4 @@
-[Ir para a página principal](https://easy-infographics.github.io/)
+[Ir para a página principal](https://easy-infographics.github.io/pt/)
 
 **Veja também esta página noutras línguas:** 🇮🇹 [Italiano](../it/) 🇬🇧 [Inglês](../en/)
 
