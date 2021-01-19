@@ -48,7 +48,7 @@ For creating the illustrations:
 
 * **Pamela Ferretti** : I'm a PhD student in computational biology at EMBL Heidelberg (Germany), where I study bacteria and their role in human health. Twitter: [@pam_ferretti](https://twitter.com/pam_ferretti)
 
-* **Eleonora Nigro** : Twitter: [@enigrox](https://twitter.com/enigrox)
+* **Eleonora Nigro** : Sono un'assistente di ricerca presso l'Universita' di Copenhagen, dove studio i batteri e le loro interazioni metaboliche nel tratto gastrointestinale umano... Oltre a studiare i batteri, mi diverto a disegnarli nel tempo libero! Twitter: [@enigrox](https://twitter.com/enigrox)
 
 For translating the page, text and illustrations in portughese: **Renato Alves**
 
