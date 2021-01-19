@@ -5,24 +5,24 @@
 Below you will find a collection of infographics on COVID-19. When not created by me, you can find the author(s) credits below the illustration. 
 **These illustrations aim to answer specific question asked to me in a clear and simplified way**. 
 
-
-# Why are vaccines useful?
-
-
 # How does the COVID-19 mRNA vaccine work?
+
+The illustration below aims to show, in a colorful and fun way, how does the mRNA vaccine work and what happens when SARS-CoV-2 encounters a human cell (with and without the vaccination).
 
 [![How does the mRNA vaccine work - english cartoon version](images/cartoon_vaccine_EN.svg)](images/cartoon_vaccine_EN.svg)
 **credits for this illustration: Eleonora Nigro (Twitter: [@enigrox](https://twitter.com/enigrox))**
 
-This illustration aims to show, in a colorful and fun way, how does the mRNA vaccine work and what happens when SARS-CoV-2 encounters a human cell (with and without the vaccination).
-**Vaccination allows our immune system to "remember" the virus. In case of a future encounter, our body will be able to respond to it in a rapid and effective way.**
+Here you can see an alternative illustration of what happens to our cells when they come into contact with SARS-CoV-2 (the virus that causes the COVID-19 disease) **before, during and after the vaccination with the mRNA vaccine.** 
 
 [![How does the mRNA vaccine work - english version](images/vaccine.svg)](images/vaccine.svg)
 
-Here you can see what happens to our cells when they come into contact with SARS-CoV-2 (the virus that causes the COVID-19 disease) **before, during and after the vaccination with the mRNA vaccine.** 
 mRNA vaccines are not the only type of vaccine available against COVID-19, but for simplicity are the only ones described in this infographic. Approved COVID-19 mRNA vaccines include those produced by Pfizer-BioNTech and Moderna.
 
-Syringe image obtained from [Pixabay](https://pixabay.com/users/janjf93-3084263/)
+Syringe image obtained from [Pixabay](https://pixabay.com/users/janjf93-3084263/).
+
+### Why are vaccines useful?
+
+**Vaccination allows our immune system to "remember" the virus. In case of a future encounter, our body will be able to respond to it in a rapid and effective way.**
 
 ### What is an mRNA after all? 
 
