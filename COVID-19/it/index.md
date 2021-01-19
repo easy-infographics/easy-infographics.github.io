@@ -7,30 +7,28 @@ In questa sezione sono raccolte le infografiche sull'argomento "COVID-19".
 **Queste illustrazioni hanno lo scopo di rispondere, in modo semplice e chiaro, a specifiche domande che mi sono state poste.** 
 
 
-
 # Come funziona il vaccino COVID-19 ad RNA messaggero (o mRNA)?
+
+L'illustrazione sottostante ha lo scopo di spiegare, in modo semplice, colorato e divertente, cosa fa il vaccino ad mRNA una volta iniettato e cosa accade alle cellule del nostro corpo quando incontrano il virus con e senza la protezione fornita dal vaccino.
 
 [![How does the mRNA vaccine work - cartoon versione italiana](images/cartoon_vaccine_IT.svg)](images/cartoon_vaccine_IT.svg)
 
-Questa illustrazione ha lo scopo di spiegare, in modo colorato e divertente, come funziona il vaccino ad RNA messaggero (o mRNA) contro il COVID-19 e cosa accade alle cellule del nostro corpo quando incontrano il virus. Credits: Eleonora Nigro.
+Credits: Eleonora Nigro [@enigrox](https://twitter.com/enigrox)
+
+Questa illustrazione alternativa spiega cosa accade quando il virus SARS-CoV-2 (che causa la malattia chiamata COVID-19) incontra le cellule di un individuo non vaccinato, come funziona il vaccino ad mRNA, e infine cosa accade quando il virus incontra le cellule di un individuo che ha ricevuto la vaccinazione ed e' quindi protetto. 
+
+[![How does the mRNA vaccine work - versione italiana](images/vaccine.svg)](images/vaccine.svg)
+
+I vaccini ad mRNA non sono l'unica tipologia di vaccino disponibile contro COVID-19, ma per ragioni di spazio e semplicita' sono gli unici descritti in questa illustrazione. Immagine siringa da [Pixabay](https://pixabay.com/users/janjf93-3084263/)
 
 ### Perche' i vaccini sono utili?
 
 **La vaccinazione consente al sistema immunitario di "ricordare" il virus e di essere in grado di reagire in modo rapido ed efficace in caso di una futura infezione**
 
-[![How does the mRNA vaccine work - versione italiana](images/vaccine.svg)](images/vaccine.svg)
-
-L'illustrazione spiega cosa accade alle nostre cellule quando incontrano SARS-CoV-2 (il virus che causa la malattia chiamata COVID-19) **prima, durante e dopo la vaccinazione con il vaccino ad mRNA** 
-I vaccini ad mRNA non sono l'unica tipologia di vaccino disponibile contro COVID-19, ma per ragioni di spazio e semplicita' sono gli unici descritti in questa illustrazione.
-
-Immagine siringa da [Pixabay](https://pixabay.com/users/janjf93-3084263/)
-
-
 ### Cosa e' l'RNA messaggero o mRNA? 
 
 Molto probabilmente avete sentito parlare di RNA messaggero nei recenti notiziari. Tuttavia, l'RNA messaggero non e' affatto recente. Infatti, l'RNA messaggero viene prodotto in continuazione dalle cellule del nostro corpo, fin dalla nascita. L'RNA messaggero e' un componente naturale del corretto funzionamento delle nostre cellule. 
 **Puoi trovare un'illustrazione dedicata a cosa e' esattamente l'RNA messaggero e che ruolo svolge nelle nostre cellule nella sezione [Biologia della cellula](https://easy-infographics.github.io/Cell_Biology/it/).** 
-
 
 altre illustrazioni sono in preparazione :)
 
@@ -52,8 +50,7 @@ Nessuno.
 
 ### Finanziamento
 
-Nessuno. 
-
+Questo progetto e' il frutto del tempo libero mio e di coloro che hanno contribuito a creare e revisionare i testi e le illustrazioni.
 
 ### Licenza
 
