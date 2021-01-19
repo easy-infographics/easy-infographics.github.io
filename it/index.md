@@ -7,8 +7,8 @@ Questo progetto ha lo scopo di fornire infografiche chiare e comprensibili ad un
 
 ### Argomenti:
 
-- [COVID-19](../COVID-19/it/)
-- [Biologia della cellula](../Cell_Biology/it/)
+- [COVID-19](https://easy-infographics.github.io/COVID-19/it/)
+- [Biologia della cellula](https://easy-infographics.github.io/Cell_Biology/it/)
 
 ### Come contribuire
 
