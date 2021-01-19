@@ -8,7 +8,7 @@ agora, mais do que nunca, uma ponte para ajudar os cidadãos do mundo a melhor i
 
 ### Temas:
 
-- [COVID-19](https://easy-infographics.github.io/pt/COVID-19/pt/)
+- [COVID-19](https://easy-infographics.github.io/COVID-19/pt/)
 - [Biologia Celular](https://easy-infographics.github.io/Cell_Biology/pt/)
 
 
