@@ -3,20 +3,20 @@
 **Check out this page also in other languages:** 🇮🇹  [Italian](../it/) 🇵🇹 [Portuguese](../pt/)
 
 Below you will find a collection of infographics on COVID-19. When not created by me, you can find the author(s) credits below the illustration. 
-**These illustrations aim to answer specific question asked to me in a clear and simplified way**. 
+**These illustrations aim to answer specific questions asked to me in a clear and simplified way**. 
 
 # How does the COVID-19 mRNA vaccine work?
 
-The illustration below aims to show, in a colorful and fun way, how does the mRNA vaccine work and what happens when SARS-CoV-2 encounters a human cell (with and without the vaccination).
+The illustration below aims to show, in a colorful, fun and simple way, what does the mRNA vaccine do once injected in our body, and what happens when a human cell encounters the virus with and without the vaccination.
 
 [![How does the mRNA vaccine work - english cartoon version](images/cartoon_vaccine_EN.svg)](images/cartoon_vaccine_EN.svg)
 **credits for this illustration: Eleonora Nigro (Twitter: [@enigrox](https://twitter.com/enigrox))**
 
-Here you can see an alternative illustration of what happens to our cells when they come into contact with SARS-CoV-2 (the virus that causes the COVID-19 disease) **before, during and after the vaccination with the mRNA vaccine.** 
+Here you can see an alternative illustration of what happens during vaccination and to our cells when they come into contact with SARS-CoV-2 (the virus that causes the COVID-19 disease) **with and without the vaccination with the mRNA vaccine.** 
 
 [![How does the mRNA vaccine work - english version](images/vaccine.svg)](images/vaccine.svg)
 
-mRNA vaccines are not the only type of vaccine available against COVID-19, but for simplicity are the only ones described in this infographic. Approved COVID-19 mRNA vaccines include those produced by Pfizer-BioNTech and Moderna.
+mRNA vaccines are not the only type of vaccine available against COVID-19, but for simplicity are the only ones described in this infographics. Approved COVID-19 mRNA vaccines include those produced by Pfizer-BioNTech and Moderna.
 
 Syringe image obtained from [Pixabay](https://pixabay.com/users/janjf93-3084263/).
 
@@ -26,7 +26,7 @@ Syringe image obtained from [Pixabay](https://pixabay.com/users/janjf93-3084263/
 
 ### What is an mRNA after all? 
 
-Well, while you might have heard of mRNA vaccines in the recent news headlines, mRNA is all but recent. In fact, mRNA has been produced and destroyed by your cells every second since you were born, and it's **naturally part of how our body works.**
+Well, while you might have heard of mRNA vaccines in the recent news headlines, mRNA is all but recent. In fact, mRNA has been produced and destroyed by your cells every second since you were conceived, and it's **naturally part of how our body works.**
 **You can find a dedicated illustration in the [Cell Biology](https://easy-infographics.github.io/Cell_Biology) section.**
 
 more illustrations coming soon :)
