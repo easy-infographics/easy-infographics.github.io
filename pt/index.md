@@ -11,6 +11,12 @@ agora, mais do que nunca, uma ponte para ajudar os cidadãos do mundo a melhor i
 - [COVID-19](COVID-19/pt-pt/)
 - [Biologia Celular](Cell_Biology/pt-pt/)
 
+
+### How to get involved
+
+Would you like to suggest the next infographic? Do you want to contribute with your own illustration or want to join the team? 
+Contact me via Twitter [@pam_ferretti](https://twitter.com/pam_ferretti)! :)
+
 ### Licença
 
 Este trabalho está licenciado ao abrigo da licença
