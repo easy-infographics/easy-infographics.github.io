@@ -16,9 +16,7 @@ Here you can see an alternative illustration of what happens during vaccination 
 
 [![How does the mRNA vaccine work - english version](images/vaccine.svg)](images/vaccine.svg)
 
-mRNA vaccines are not the only type of vaccine available against COVID-19, but for simplicity are the only ones described in this infographics. Approved COVID-19 mRNA vaccines include those produced by Pfizer-BioNTech and Moderna.
-
-Syringe image from [Pixabay](https://pixabay.com/users/janjf93-3084263/).
+mRNA vaccines are not the only type of vaccine available against COVID-19, but for simplicity are the only ones described in this infographics. Approved COVID-19 mRNA vaccines include those produced by Pfizer-BioNTech and Moderna. Syringe image from [Pixabay](https://pixabay.com/users/janjf93-3084263/).
 
 ### Why are vaccines useful?
 
