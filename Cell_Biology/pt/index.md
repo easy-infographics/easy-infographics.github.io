@@ -8,17 +8,24 @@ Aqui pode encontrar uma coleção de infografias sobre biologia celular.
 perguntas específicas que me foram feitas**.
 
 # O que é o ARN mensageiro, ARNm ou mRNA?
-[![mRNA_cell.svg - versão portuguesa](images/mRNA_cell.svg)](images/mRNA_cell.svg)
 
 O ARN mensageiro (ARNm or mRNA) é um elemento essencial das nossas células, que permite ao nosso corpo criar proteínas utilizando as instruções presentes no nosso ADN.
 ARN mensageiros são produzidos naturalmente e de forma contínua pelas células do nosso organismo a todos os instantes.
 
+[![mRNA_cell.svg - versão portuguesa](images/mRNA_cell.svg)](images/mRNA_cell.svg)
 **Se está interessado em saber como funciona a vacina mRNA para COVID-19, visite a secção [COVID-19](https://easy-infographics.github.io/COVID-19/en/) neste site.**
-
 
 mais ilustrações em breve :)
 
 ***
+
+### Credits
+
+For creating the illustrations:
+
+* **Pamela Ferretti** : I'm a PhD student in computational biology at EMBL Heidelberg (Germany), where I study bacteria and their role in human health. Twitter: [@pam_ferretti](https://twitter.com/pam_ferretti)
+
+For translating the page, text and illustrations in portughese: **Renato Alves**
 
 ### Conflito de interesses
 
