@@ -8,8 +8,8 @@ agora, mais do que nunca, uma ponte para ajudar os cidadãos do mundo a melhor i
 
 ### Temas:
 
-- [COVID-19](COVID-19/pt-pt/)
-- [Biologia Celular](Cell_Biology/pt-pt/)
+- [COVID-19](COVID-19/pt/)
+- [Biologia Celular](Cell_Biology/pt/)
 
 
 ### How to get involved
