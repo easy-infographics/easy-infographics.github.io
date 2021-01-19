@@ -7,10 +7,9 @@ In questa sezione sono raccolte le infografiche sull'argomento "biologia della c
 
 # Cosa e' l' RNA messaggero o mRNA? 
 
-[![mRNA_cell.svg - versione italiana](images/mRNA_cell.svg)](images/mRNA_cell.svg)
-
 L'RNA messaggero (o mRNA) e' un elemento essenziale delle nostre cellule, in quanto consente al nostro corpo di produrre proteine usando le istruzioni contenute nel nostro DNA. L'RNA messaggero viene continuamente prodotto dalle cellule del nostro corpo, in modo del tutto naturale.  
 
+[![mRNA_cell.svg - versione italiana](images/mRNA_cell.svg)](images/mRNA_cell.svg)
 **Se vuoi maggiori infomazioni su come funziona il vaccino ad RNA messaggero contro il COVID-19, visita la sezione [COVID-19](https://easy-infographics.github.io/COVID-19/it/).** 
 
 Altre illustrazioni sono in preparazione :)
@@ -23,6 +22,7 @@ Per le illustrazioni:
 
 * **Pamela Ferretti** : Sono una studentessa di dottorato in Biologia Computazionale presso l'EMBL ad Heidelberg (Germania), dove studio i batteri e il loro ruolo nella salute umana. Twitter: [@pam_ferretti](https://twitter.com/pam_ferretti)
 
+Per i numerosi ad utili suggerimenti sul testo sia delle illustrazioni che del sito: **Marilena Ferretti**
 
 ### Dichiarazione di conflitto di interessi
 
@@ -30,7 +30,7 @@ Nessuno.
 
 ### Finanziamento
 
-Nessuno. 
+Questo progetto e’ il frutto del tempo libero mio e di coloro che hanno contribuito a creare e revisionare i testi e le illustrazioni.
 
 
 ### Licenza
