@@ -10,9 +10,9 @@ perguntas específicas que me foram feitas**.
 
 # Como funciona a vacina COVID-19 mRNA (ou ARNm)?
 
-Esta ilustração visa mostrar, de uma forma colorida e divertida, o que acontece
-quando o vírus SARS-CoV-2 encontra uma célula humana. Estão presentes três cenários na ilustração: antes, durante e depois da vacinação ou exposição ao vírus.
--> insetad of "The illustration below aims to show, in a colorful, fun and simple way, what does the mRNA vaccine do once injected in our body, and what happens when a human cell encounters the virus with and without the vaccination."
+The illustration below aims to show, in a colorful, fun and simple way, what does the mRNA vaccine do once injected in our body, and what happens when a human cell encounters the virus with and without the vaccination.
+-> insetad of "Esta ilustração visa mostrar, de uma forma colorida e divertida, o que acontece
+quando o vírus SARS-CoV-2 encontra uma célula humana. Estão presentes três cenários na ilustração: antes, durante e depois da vacinação ou exposição ao vírus."
 
 [![How does the mRNA vaccine work - portughese cartoon version](images/cartoon_vaccine_PT.svg)](images/cartoon_vaccine_PT.svg)
 
