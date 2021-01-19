@@ -10,7 +10,7 @@ Below you will find a collection of infographics on COVID-19. When not created b
 The illustration below aims to show, in a colorful, fun and simple way, what does the mRNA vaccine do once injected in our body, and what happens when a human cell encounters the virus with and without the vaccination.
 
 [![How does the mRNA vaccine work - english cartoon version](images/cartoon_vaccine_EN.svg)](images/cartoon_vaccine_EN.svg)
-**credits for this illustration: Eleonora Nigro (Twitter: [@enigrox](https://twitter.com/enigrox))**
+Credits for this illustration: Eleonora Nigro ([@enigrox](https://twitter.com/enigrox))
 
 Here you can see an alternative illustration of what happens during vaccination and to our cells when they come into contact with SARS-CoV-2 (the virus that causes the COVID-19 disease) **with and without the vaccination with the mRNA vaccine.** 
 
