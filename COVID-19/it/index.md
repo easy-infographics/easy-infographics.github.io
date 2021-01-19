@@ -42,7 +42,7 @@ Per le illustrazioni:
 
 * **Eleonora Nigro** : Sono un'assistente di ricerca presso l'Universita' di Copenhagen, dove studio i batteri e le loro interazioni metaboliche nel tratto gastrointestinale umano... Oltre a studiare i batteri, mi diverto a disegnarli nel tempo libero! Twitter: [@enigrox](https://twitter.com/enigrox)
 
-Per i numerosi ad utili suggerimenti sul testo sia delle illustrazioni che del sito: Marilena Ferretti
+Per i numerosi ad utili suggerimenti sul testo sia delle illustrazioni che del sito: **Marilena Ferretti**
 
 ### Dichiarazione di conflitto di interessi
 
