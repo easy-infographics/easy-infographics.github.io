@@ -3,7 +3,7 @@
 **Check out this page also in other languages:** 🇮🇹  [Italian](../it/) 🇵🇹 [Portuguese](../pt/)
 
 Below you will find a collection of infographics on COVID-19. When not created by me, you can find the author(s) credits below the illustration. 
-**These illustrations aim to answer specific questions asked to me in a clear and simplified way**. 
+**These illustrations aim to answer specific questions I was asked, in a clear and simplified way**. 
 
 # How does the COVID-19 mRNA vaccine work?
 
