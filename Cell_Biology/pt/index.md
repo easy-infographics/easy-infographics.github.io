@@ -19,13 +19,15 @@ mais ilustrações em breve :)
 
 ***
 
-### Credits
-
-For creating the illustrations:
-
-* **Pamela Ferretti** : I'm a PhD student in computational biology at EMBL Heidelberg (Germany), where I study bacteria and their role in human health. Twitter: [@pam_ferretti](https://twitter.com/pam_ferretti)
-
-For translating the page, text and illustrations in portughese: **Renato Alves**
+### Autoria
+ 
+Responsáveis pelas ilustrações:
+ 
+* **Pamela Ferretti** : Eu sou uma estudante de doutoramento (PhD) em biologia computacional no EMBL em Heidelberg (Alemanha), onde estudo bactérias e o seu papel na saúde humana. [@pam_ferretti](https://twitter.com/pam_ferretti)
+ 
+* **Eleonora Nigro** : Eu sou uma assistente de investigação na Universidade da Copenhaga, onde estudo bactérias e interações de metabolitos com o intestino humano... Além de as estudar, eu gosto de desenhar bactérias em todo o lado! Twitter: [@enigrox](https://twitter.com/enigrox)
+ 
+Responsável pela tradução da página, textos e ilustrações para Português: **Renato Alves**
 
 ### Conflito de interesses
 
