@@ -12,10 +12,11 @@ agora, mais do que nunca, uma ponte para ajudar os cidadãos do mundo a melhor i
 - [Biologia Celular](https://easy-infographics.github.io/Cell_Biology/pt/)
 
 
-### How to get involved
-
-Would you like to suggest the next infographic? Do you want to contribute with your own illustration or want to join the team? 
-Contact me via Twitter [@pam_ferretti](https://twitter.com/pam_ferretti)! :)
+### Como contribuir
+ 
+Quer sugerir a próxima infografia? Ou contribuir com uma ilustração e juntar-se à equipa?
+Contacte-me via Twitter [@pam_ferretti](https://twitter.com/pam_ferretti)! :)
+ 
 
 ### Licença
 
