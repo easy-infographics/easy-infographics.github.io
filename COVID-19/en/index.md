@@ -39,7 +39,7 @@ For creating the illustrations:
 
 * **Eleonora Nigro**: I am a Research Assistant at the University of Copenhagen, where I study bacteria and metabolites interactions in the human gut... Besides studying them, I like drawing bacteria everywhere! Twitter: [@enigrox](https://twitter.com/enigrox)
 
-For reviewing the illustrations and text: **Conor R. Walker**, **Renato Alves**
+For reviewing the illustrations and text: **Conor R. Walker** and **Renato Alves**
 
 ### Conflict of interests
 
