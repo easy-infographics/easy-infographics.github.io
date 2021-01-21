@@ -15,7 +15,7 @@ L'illustrazione sottostante ha lo scopo di spiegare, in modo semplice, colorato 
 
 Credits: Eleonora Nigro [@enigrox](https://twitter.com/enigrox)
 
-Questa illustrazione alternativa spiega cosa accade quando il virus SARS-CoV-2 (che causa la malattia chiamata COVID-19) incontra le cellule di un individuo non vaccinato, come funziona il vaccino ad mRNA, e infine cosa accade quando il virus incontra le cellule di un individuo che ha ricevuto la vaccinazione ed e' quindi protetto. 
+Questa illustrazione alternativa spiega cosa accade quando il virus SARS-CoV-2 (che causa la malattia chiamata COVID-19) incontra le cellule di un individuo non vaccinato, come funziona il vaccino ad mRNA, e infine cosa accade quando il virus incontra un individuo che ha ricevuto la vaccinazione ed e' quindi protetto. 
 
 [![How does the mRNA vaccine work - versione italiana](images/vaccine.svg)](images/vaccine.svg)
 
