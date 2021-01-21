@@ -9,12 +9,12 @@ Below you will find a collection of infographics on COVID-19. When not created b
 
 The illustration below shows, in a colorful, fun and simple way, what the mRNA vaccine does once injected into our body, and what happens when a human cell encounters the virus with and without vaccination.
 
-[![How does the mRNA vaccine work - english cartoon version](images/cartoon_vaccine_EN.pdf)](images/cartoon_vaccine_EN.pdf)
+[![How does the mRNA vaccine work - english cartoon version](images/cartoon_vaccine_EN.png)](images/cartoon_vaccine_EN.png)
 Credits for this illustration: Eleonora Nigro ([@enigrox](https://twitter.com/enigrox))
 
 Here you can see an alternative illustration of what happens during vaccination and to our cells when they come into contact with SARS-CoV-2 (the virus that causes the COVID-19 disease) **with and without the vaccination with the mRNA vaccine.** 
 
-[![How does the mRNA vaccine work - english version](images/vaccine_EN.pdf)](images/vaccine_EN.pdf)
+[![How does the mRNA vaccine work - english version](images/vaccine_EN.png)](images/vaccine_EN.png)
 
 mRNA vaccines are not the only type of vaccine available against COVID-19, but for simplicity are the only ones described in this infographics. Approved COVID-19 mRNA vaccines include those produced by Pfizer-BioNTech and Moderna. Syringe image from [Pixabay](https://pixabay.com/users/janjf93-3084263/).
 
