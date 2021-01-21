@@ -10,16 +10,14 @@ perguntas específicas que me foram feitas**.
 
 # Como funciona a vacina COVID-19 mRNA (ou ARNm)?
 
-The illustration below aims to show, in a colorful, fun and simple way, what does the mRNA vaccine do once injected in our body, and what happens when a human cell encounters the virus with and without the vaccination.
--> insetad of "Esta ilustração visa mostrar, de uma forma colorida e divertida, o que acontece
-quando o vírus SARS-CoV-2 encontra uma célula humana. Estão presentes três cenários na ilustração: antes, durante e depois da vacinação ou exposição ao vírus."
+Esta ilustração visa mostrar, de uma forma colorida e divertida, o que acontece à vacina de mRNA depois de injetada no nosso corpo,
+e o que acontece quando uma célula humana encontra o vírus com e sem vacinação.
 
 [![How does the mRNA vaccine work - portughese cartoon version](images/cartoon_vaccine_PT.svg)](images/cartoon_vaccine_PT.svg)
 
-Créditos desta ilustração: Eleonora Nigro ([@enigrox](https://twitter.com/enigrox))
+Autoria da ilustração: Eleonora Nigro ([@enigrox](https://twitter.com/enigrox))
 
-Here you can see an alternative illustration of what happens during vaccination and to our cells when they come into contact with SARS-CoV-2 (the virus that causes the COVID-19 disease) with and without the vaccination with the mRNA vaccine. 
--> instead of "Aqui pode ver o que acontece às nossas células quando encontram o vírus SARS-CoV-2 (o vírus que causa a doença COVID-19) **antes, durante e depois da vacinação com a vacina de mRNA.**" 
+Aqui pode ver uma ilustração alternativa do que acontece durante a vacinação e o que acontece às nossas células quando encontram o vírus SARS-CoV-2 (o vírus que causa a doença COVID-19) **com e sem a vacinação com a vacina de mRNA.**" 
 
 [![Como funciona a vacina mRNA - versão portuguesa](images/vaccine.svg)](images/vaccine.svg)
 
@@ -42,15 +40,15 @@ mais ilustrações em breve :)
 
 ***
 
-### Credits
+### Autoria
 
-For creating the illustrations:
-
-* **Pamela Ferretti** : I'm a PhD student in computational biology at EMBL Heidelberg (Germany), where I study bacteria and their role in human health. Twitter: [@pam_ferretti](https://twitter.com/pam_ferretti)
-
-* **Eleonora Nigro** : I am a Research Assistant at the University of Copenhagen, where I study bacteria and metabolites interactions in the human gut... Besides studying them, I like drawing bacteria everywhere! Twitter: [@enigrox](https://twitter.com/enigrox)
-
-For translating the page, text and illustrations in portughese: **Renato Alves**
+Responsáveis pelas ilustrações:
+ 
+* **Pamela Ferretti** : Eu sou uma estudante de doutoramento (PhD) em biologia computacional no EMBL em Heidelberg (Alemanha), onde estudo bactérias e o seu papel na saúde humana. [@pam_ferretti](https://twitter.com/pam_ferretti)
+ 
+* **Eleonora Nigro** : Eu sou uma assistente de investigação na Universidade da Copenhaga, onde estudo bactérias e interações de metabolitos com o intestino humano... Além de as estudar, eu gosto de desenhar bactérias em todo o lado! Twitter: [@enigrox](https://twitter.com/enigrox)
+ 
+Responsável pela tradução da página, textos e ilustrações para Português: **Renato Alves**
 
 ### Conflito de interesses
 
