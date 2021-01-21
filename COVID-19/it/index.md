@@ -23,7 +23,7 @@ I vaccini ad mRNA non sono l'unica tipologia di vaccino disponibile contro COVID
 
 ### Perche' i vaccini sono utili?
 
-**La vaccinazione consente al sistema immunitario di "ricordare" il virus e di essere in grado di reagire in modo rapido ed efficace in caso di una futura infezione**
+**La vaccinazione consente al sistema immunitario di "ricordare" il virus e di essere in grado di reagire in modo rapido ed efficace in caso di una futura infezione.**
 
 ### Cosa e' l'RNA messaggero o mRNA? 
 
