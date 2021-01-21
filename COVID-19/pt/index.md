@@ -13,13 +13,13 @@ perguntas específicas que me foram feitas**.
 Esta ilustração visa mostrar, de uma forma colorida e divertida, o que acontece à vacina de mRNA depois de injetada no nosso corpo,
 e o que acontece quando uma célula humana encontra o vírus com e sem vacinação.
 
-[![How does the mRNA vaccine work - portughese cartoon version](images/cartoon_vaccine_PT.pdf)](images/cartoon_vaccine_PT.pdf)
+[![How does the mRNA vaccine work - portughese cartoon version](images/cartoon_vaccine_PT.png)](images/cartoon_vaccine_PT.png)
 
 Autoria da ilustração: Eleonora Nigro ([@enigrox](https://twitter.com/enigrox))
 
 Aqui pode ver uma ilustração alternativa do que acontece durante a vacinação e o que acontece às nossas células quando encontram o vírus SARS-CoV-2 (o vírus que causa a doença COVID-19) **com e sem a vacinação com a vacina de mRNA.**" 
 
-[![Como funciona a vacina mRNA - versão portuguesa](images/vaccine_PT.pdf)](images/vaccine_PT.pdf)
+[![Como funciona a vacina mRNA - versão portuguesa](images/vaccine_PT.png)](images/vaccine_PT.png)
 
 Vacinas de mRNA não são o único tipo de vacina contra a COVID-19, mas para simplicidade são as únicas descritas nesta infografia.
 À data deste texto, as vacinas de mRNA aprovadas contra a COVID-19 incluem as produzidas pela Pfizer-BioNTech e Moderna. A imagem da seringa foi obtida de [Pixabay](https://pixabay.com/users/janjf93-3084263/)

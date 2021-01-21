@@ -12,7 +12,7 @@ perguntas específicas que me foram feitas**.
 O ARN mensageiro (ARNm or mRNA) é um elemento essencial das nossas células, que permite ao nosso corpo criar proteínas utilizando as instruções presentes no nosso ADN.
 ARN mensageiros são produzidos naturalmente e de forma contínua pelas células do nosso organismo a todos os instantes.
 
-[![mRNA_cell.svg - versão portuguesa](images/mRNA_cell_PT.pdf)](images/mRNA_cell_PT.pdf)
+[![mRNA_cell.svg - versão portuguesa](images/mRNA_cell_PT.png)](images/mRNA_cell_PT.png)
 **Se está interessado em saber como funciona a vacina mRNA para COVID-19, visite a secção [COVID-19](https://easy-infographics.github.io/COVID-19/en/) neste site.**
 
 mais ilustrações em breve :)

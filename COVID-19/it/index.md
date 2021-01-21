@@ -11,13 +11,13 @@ In questa sezione sono raccolte le infografiche sull'argomento "COVID-19".
 
 L'illustrazione sottostante ha lo scopo di spiegare, in modo semplice, colorato e divertente, cosa fa il vaccino ad mRNA una volta iniettato e cosa accade alle cellule del nostro corpo quando incontrano il virus con e senza la protezione fornita dal vaccino.
 
-[![How does the mRNA vaccine work - cartoon versione italiana](images/cartoon_vaccine_IT.pdf)](images/cartoon_vaccine_IT.pdf)
+[![How does the mRNA vaccine work - cartoon versione italiana](images/cartoon_vaccine_IT.png)](images/cartoon_vaccine_IT.png)
 
 Credits: Eleonora Nigro [@enigrox](https://twitter.com/enigrox)
 
 Questa illustrazione alternativa spiega cosa accade quando il virus SARS-CoV-2 (che causa la malattia chiamata COVID-19) incontra le cellule di un individuo non vaccinato, come funziona il vaccino ad mRNA, e infine cosa accade quando il virus incontra un individuo che ha ricevuto la vaccinazione ed e' quindi protetto. 
 
-[![How does the mRNA vaccine work - versione italiana](images/vaccine_IT.pdf)](images/vaccine_IT.pdf)
+[![How does the mRNA vaccine work - versione italiana](images/vaccine_IT.png)](images/vaccine_IT.png)
 
 I vaccini ad mRNA non sono l'unica tipologia di vaccino disponibile contro COVID-19, ma per ragioni di spazio e semplicita' sono gli unici descritti in questa illustrazione. Immagine siringa da [Pixabay](https://pixabay.com/users/janjf93-3084263/)
 
