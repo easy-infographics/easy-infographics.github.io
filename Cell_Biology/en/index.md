@@ -10,7 +10,7 @@ Below you will find a collection of infographics on cellular biology.
 
 The messenger RNA (or mRNA) is an essential element of our cells, that allows our body to create proteins using the set of instructions present in our DNA. Messenger RNA is naturally and continuously produced by the cells of our body at any given time. 
 
-[![mRNA_cell.svg - English version](images/mRNA_cell.svg)](images/mRNA_cell.svg)
+[![mRNA_cell.svg - English version](images/mRNA_cell_EN.pdf)](images/mRNA_cell_EN.pdf)
 **If you are interested in how the mRNA vaccine for COVID-19 works, check out the [COVID-19](https://easy-infographics.github.io/COVID-19/en/) section.**
 
 
