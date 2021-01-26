@@ -7,8 +7,8 @@ Ce projet a pour but de fournir des **illustrations faciles à comprendre concer
 
 ### Sujets:
 
-- [COVID-19](COVID-19/)
-- [Biologie cellulaire](Cell_Biology/)
+- [COVID-19](https://easy-infographics.github.io/COVID-19/fr/)
+- [Biologie cellulaire](https://easy-infographics.github.io/Cell_Biology/fr/)
 
 ### Comment nous aider ?
 
