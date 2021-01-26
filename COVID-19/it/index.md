@@ -1,7 +1,7 @@
 
 [Vai alla Home](https://easy-infographics.github.io/it/)
 
-**Visualizza questa pagina in:** 🇬🇧 [Inglese](../en/) 🇵🇹 [Portoghese](../pt/)
+**Visualizza questa pagina in:** 🇬🇧 [Inglese](../en/) 🇵🇹 [Portoghese](../pt/) 🇫🇷 [Francese](../fr/)
 
 In questa sezione sono raccolte le infografiche sull'argomento "COVID-19". 
 **Queste illustrazioni hanno lo scopo di rispondere, in modo semplice e chiaro, a specifiche domande che mi sono state poste.** 
