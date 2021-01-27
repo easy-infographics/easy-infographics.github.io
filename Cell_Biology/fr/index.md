@@ -1,5 +1,5 @@
 
-Page d'accueil](https://easy-infographics.github.io/)
+[Page d'accueil](https://easy-infographics.github.io/fr/)
 
 **Accéder à cette page dans une autre langue** 🇮🇹  [Italien](../it/) 🇵🇹 [Portugais](../pt/) 🇬🇧 [Anglais](../en/)
 
