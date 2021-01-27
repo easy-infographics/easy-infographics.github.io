@@ -13,7 +13,7 @@ Ce projet a pour but de fournir des **illustrations faciles à comprendre concer
 ### Comment nous aider ?
 
 Vous avez des suggestions de nouveaux sujets / illustrations ? Vous voulez contribuer avec vos propres illustrations ou simplement rejoindre l'équipe ?
-Contactez moi via Twitter [@pam_ferretti](https://twitter.com/pam_ferretti)! :)
+Contactez moi via Twitter [@pam_ferretti](https://twitter.com/pam_ferretti) ! :)
 
 ### Licence
 

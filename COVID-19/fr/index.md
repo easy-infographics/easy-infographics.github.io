@@ -5,7 +5,7 @@
 Vous trouverez ci-dessous une série d'illustrations sur la Covid-19. Si elles n'ont pas été réalisées par moi, vous trouverez l'auteur dans les remerciements sous l'illlustration.
 **Ces illustraitions ont pour but de répondre de manière claire et concise à des questions spécifiques qui m'ont été posées**.
 
-# Comment fonctionne le vaccin à ARNm contre la Covid-19?
+# Comment fonctionne le vaccin à ARNm contre la Covid-19 ?
 
 Cette illustration cherche à montrer, de manière fun et colorée, comment fonctionne le vaccin à ARNm et ce qu'il se passe lorsque le virus SARS-CoV-2 rencontre une cellule humaine (avec et sans vaccination).
 

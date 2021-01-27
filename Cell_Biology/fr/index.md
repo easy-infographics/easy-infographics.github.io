@@ -6,7 +6,7 @@
 Vous trouverez ci-dessous une série d'illustrations sur la biologie cellulaire.
 **Ces illustraitions ont pour but de répondre de manière claire et concise à des questions spécifiques qui m'ont été posées**.
 
-# Qu'est-ce qu'un ARN messager ou ARNm?
+# Qu'est-ce qu'un ARN messager ou ARNm ?
 
 L'ARN messager (or ARNm) est un élément essentiel de nos cellules, permettant à nos corps de créer des protéines en suivant les instructions présentes dans notre ADN. L'ARN messager est naturellement et continuellement produit dans nos cellules à chaque instant.
 
@@ -23,7 +23,7 @@ Pour les illustrations :
 
 * **Pamela Ferretti** : étudiante en thèse en biologie computationnelle à l'EMBL de Heidelberg (Allemagne) où elle étudie les bactéries et leur rôle sur la santé humaine. Twitter: [@pam_ferretti](https://twitter.com/pam_ferretti)
 
-* **Eleonora Nigro** : assistante de recherche à l'Université de Copenhague, où elle étudie les bactéries et les interactions métaboliques dans l'intestin humain. Outre l'étude des bactéries, elle adore en dessiner partout! Twitter: [@enigrox](https://twitter.com/enigrox)
+* **Eleonora Nigro** : assistante de recherche à l'Université de Copenhague, où elle étudie les bactéries et les interactions métaboliques dans l'intestin humain. Outre l'étude des bactéries, elle adore en dessiner partout ! Twitter: [@enigrox](https://twitter.com/enigrox)
 
 Pour la traduction de la page, du texte et des illustraitons en français: **Léonard Dubois**
 
