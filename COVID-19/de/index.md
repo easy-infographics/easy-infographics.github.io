@@ -1,5 +1,5 @@
 
-**Diese Seite ist auch in anderen Sprachen verfügbar:** 🇮🇹  [Italian](../it/) 🇵🇹 [Portuguese](../pt/) 🇫🇷 [French](../fr/) 🇬🇧 [Englisch](../)
+**Diese Seite ist auch in anderen Sprachen verfügbar:** 🇮🇹  [Italian](../it/) 🇵🇹 [Portuguese](../pt/) 🇫🇷 [French](../fr/) 🇬🇧 [Englisch](../) 🇪🇸 [Spanisch](../es/)
 
 Auf dieser Seite können Sie verschiedene Infographiken zu COVID-19 finden. Falls die Graphik nicht von mir selbst erstellt wurde, ist ein Hinweis mit den Namen der Autoren beigefügt.
 **Diese Infographiken haben zum Ziel, bestimmte Fragen zu COVID-19, die mir in letzter Zeit häufiger gestellt worden sind, in klarer und einfacher Sprache zu beantworten**.
