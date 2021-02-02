@@ -7,8 +7,8 @@ Con este proyecto esperamos ofrecer **infografías fáciles de entender sobre te
 
 ### Temas:
 
-- [COVID-19](COVID-19/es/)
-- [Biología Celular](Cell_Biology/es/)
+- [COVID-19](https://easy-infographics.github.io/COVID-19/es/)
+- [Biología Celular](https://easy-infographics.github.io/Cell_Biology/es/)
 
 ### Cómo participar
 
