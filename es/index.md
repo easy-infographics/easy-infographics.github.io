@@ -8,7 +8,7 @@ Con este proyecto esperamos ofrecer **infografías fáciles de entender sobre te
 ### Temas:
 
 - [COVID-19](COVID-19/es/)
-- [Cell Biology](Cell_Biology/es/)
+- [Biología Celular](Cell_Biology/es/)
 
 ### Cómo participar
 
