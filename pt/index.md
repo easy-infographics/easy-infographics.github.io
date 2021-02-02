@@ -1,4 +1,4 @@
-**Veja também esta página noutras línguas:** 🇮🇹 [Italiano](../it/) 🇬🇧 [Inglês](../) 🇫🇷 [Francês](../pt/)
+**Veja também esta página noutras línguas:** 🇮🇹 [Italiano](../it/) 🇬🇧 [Inglês](../) 🇫🇷 [Francês](../pt/) 🇩🇪 [Alemão](../de/) 🇪🇸 [Espanhol](../es/)
 
 ### Acerca desta página?
 
