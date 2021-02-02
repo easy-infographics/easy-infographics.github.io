@@ -1,7 +1,7 @@
 
 [Ir para a página principal](https://easy-infographics.github.io/pt/)
 
-**Veja também esta página noutras línguas:** 🇮🇹 [Italiano](../it/) 🇬🇧 [Inglês](../en/) 🇫🇷 [Francês](../pt/)
+**Veja também esta página noutras línguas:** 🇮🇹 [Italiano](../it/) 🇬🇧 [Inglês](../en/) 🇫🇷 [Francês](../pt/) 🇩🇪 [Alemão](../de/) 🇪🇸 [Espanhol](../es/)
 
 Aqui pode encontrar uma coleção de infografias sobre biologia celular.
 **Estas ilustrações têm como finalidade responder de forma clara e simples a

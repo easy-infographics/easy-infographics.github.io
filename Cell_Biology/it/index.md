@@ -1,6 +1,6 @@
 [Vai alla Home](https://easy-infographics.github.io/it/)
 
-**Visualizza questa pagina in:** 🇬🇧 [Inglese](../en/) 🇵🇹 [Portoghese](../pt/)  🇫🇷 [Francese](../fr/)
+**Visualizza questa pagina in:** 🇬🇧 [Inglese](../en/) 🇵🇹 [Portoghese](../pt/)  🇫🇷 [Francese](../fr/) 🇩🇪 [Tedesco](../de/) 🇪🇸 [Spagnolo](../es/)
 
 In questa sezione sono raccolte le infografiche sull'argomento "biologia della cellula". 
 **Queste illustrazioni hanno lo scopo di rispondere, in modo semplice e chiaro, a specifiche domande che mi sono state poste.** 
