@@ -1,7 +1,7 @@
 
 [Go to the main page](https://easy-infographics.github.io/)
 
-**Check out this page also in other languages:** 🇮🇹  [Italian](../it/)  🇵🇹 [Portuguese](../pt/) 🇫🇷 [French](../fr/)
+**Check out this page also in other languages:** 🇮🇹  [Italian](../it/)  🇵🇹 [Portuguese](../pt/) 🇫🇷 [French](../fr/) 🇪🇸 [Spanish](../es/)
 
 Below you will find a collection of infographics on cellular biology. 
 **These illustrations aim to answer, in a clear and simplified way, specific questions that were asked to me.** 
