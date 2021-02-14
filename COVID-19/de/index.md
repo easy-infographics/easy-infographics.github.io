@@ -1,3 +1,4 @@
+[Zurück zur Startseite](https://easy-infographics.github.io/de/)
 
 **Diese Seite ist auch in anderen Sprachen verfügbar:** 🇮🇹  [Italian](../it/) 🇵🇹 [Portuguese](../pt/) 🇫🇷 [French](../fr/) 🇬🇧 [Englisch](../) 🇪🇸 [Spanisch](../es/)
 
