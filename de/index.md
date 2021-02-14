@@ -8,8 +8,8 @@ Wir hoffen, mit diesem Projekt, **einfach verständliche Infografiken über wiss
 
 ### Themen:
 
-- [COVID-19](COVID-19/de/)
-- [Zellen-Biologie](Cell_Biology/de/)
+- [COVID-19](https://easy-infographics.github.io/COVID-19/de/)
+- [Zellen-Biologie](https://easy-infographics.github.io/Cell_Biology/de/)
 
 ### Mitmachen
 
