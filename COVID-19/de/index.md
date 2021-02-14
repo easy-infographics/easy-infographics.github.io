@@ -24,7 +24,7 @@ Bild der Spritze von [Pixabay](https://pixabay.com/users/janjf93-3084263/).
 
 ### Was genau ist mRNA eigentlich?
 
-Obwohl mRNA und die neuartigen mRNA Impfungen erst vor Kurzem in den Fokus der Medien gerückt sind, ist mRNA alles andere als neu. mRNA ist ein Teil der **natürlichen Funktionsweise des menschlichen Körpers** und wird in so gut wie jeder Zelle dauernd produziert und wieder abgebaut.
+Obwohl mRNA und die neuartigen mRNA Impfungen erst vor Kurzem in den Fokus der Medien gerückt sind, ist mRNA alles andere als neu. mRNA ist ein Teil der **natürlichen Funktionsweise des menschlichen Körpers** und wird in so gut wie jeder Zelle dauernd produziert und wieder abgebaut. **Mehr Details zu mRNA sind auf der [Zellbiologie-Seite](https://easy-infographics.github.io/Cell_Biology/de/) zu finden.**
 
 
 Andere Illustrationen folgen in Kürze :)
