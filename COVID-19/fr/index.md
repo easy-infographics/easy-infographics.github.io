@@ -1,6 +1,6 @@
 [Page d'accueil](https://easy-infographics.github.io/fr/)
 
-**Accéder à cette page dans une autre langue** 🇮🇹  [Italien](../it/) 🇵🇹 [Portugais](../pt/) 🇬🇧 [Anglais](../en/) 🇩🇪 [Allemand](../de/)
+**Accéder à cette page dans une autre langue** 🇮🇹  [Italien](../it/) 🇵🇹 [Portugais](../pt/) 🇬🇧 [Anglais](../en/) 🇩🇪 [Allemand](../de/) 🇪🇸 [Espagnol](../es/)
 
 Vous trouverez ci-dessous une série d'illustrations sur la Covid-19. Si elles n'ont pas été réalisées par moi, vous trouverez l'auteur dans les remerciements sous l'illlustration.
 **Ces illustraitions ont pour but de répondre de manière claire et concise à des questions spécifiques qui m'ont été posées**.
