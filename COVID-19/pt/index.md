@@ -34,7 +34,7 @@ Nos últimos tempos, ouviu provavelmente menções a vacinas com mRNA ou ARNm.
 Apesar aparentemente novidade, o mRNA é tudo menos recente. Na verdade, mRNA é
 produzido e destruído nas suas células a cada segundo desde a sua conceção e é
 **naturalmente parte de como o nosso organismo funciona.**
-**Pode encontrar uma ilustração dedicada na secção de [Biologia Celular](https://easy-infographics.github.io/Cell_Biology).**
+**Pode encontrar uma ilustração dedicada na secção de [Biologia Celular](https://easy-infographics.github.io/Cell_Biology/pt/).**
 
 mais ilustrações em breve :)
 
