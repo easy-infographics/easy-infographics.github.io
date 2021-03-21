@@ -1,7 +1,7 @@
 
 [Zurück zur Startseite](https://easy-infographics.github.io/de/)
 
-**Schauen Sie sich diese Seite auch in anderen Sprachen an:**🇮🇹  [Italienisch](/it/) 🇵🇹 [Portugiesisch](../pt/) 🇫🇷 [Französisch](../fr/) 🇬🇧 [Englisch](../) 🇪🇸 [Spanisch](../es/)
+**Schauen Sie sich diese Seite auch in anderen Sprachen an:**🇮🇹  [Italienisch](/it/) 🇵🇹 [Portugiesisch](../pt/) 🇫🇷 [Französisch](../fr/) 🇬🇧 [Englisch](../) 🇪🇸 [Spanisch](../es/) 🇷🇺 [Russisch](../ru/)
 
 Im Folgenden findest du eine Sammlung von Infografiken rund um Zellbiologie.
 **Diese Illustrationen versuchen spezielle Fragen, die mir persönlich gestellt wurden, in einfacher und klarer Weise zu beantowrten.**

@@ -1,7 +1,8 @@
 
 [Page d'accueil](https://easy-infographics.github.io/fr/)
 
-**Accéder à cette page dans une autre langue** 🇮🇹  [Italien](../it/) 🇵🇹 [Portugais](../pt/) 🇬🇧 [Anglais](../en/) 🇩🇪 [Allemand](../de/) 🇪🇸 [Espagnol](../es/)
+**Accéder à cette page dans une autre langue** 🇮🇹  [Italien](../it/) 🇵🇹 [Portugais](../pt/) 🇬🇧 [Anglais](../en/) 🇩🇪 [Allemand](../de/) 🇪🇸 [Espagnol](../es/) 🇷🇺 [Russe](../ru/)
+
 
 Vous trouverez ci-dessous une série d'illustrations sur la biologie cellulaire.
 **Ces illustraitions ont pour but de répondre de manière claire et concise à des questions spécifiques qui m'ont été posées**.

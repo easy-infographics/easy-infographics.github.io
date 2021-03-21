@@ -1,6 +1,6 @@
 [Go to the main page](https://easy-infographics.github.io/)
 
-**Check out this page also in other languages:** 🇮🇹  [Italian](../it/) 🇵🇹 [Portuguese](../pt/) 🇫🇷 [French](../fr/) 🇪🇸 [Spanish](../es/) 🇩🇪 [German](../de/)
+**Check out this page also in other languages:** 🇮🇹  [Italian](../it/) 🇵🇹 [Portuguese](../pt/) 🇫🇷 [French](../fr/) 🇪🇸 [Spanish](../es/) 🇩🇪 [German](../de/) 🇷🇺 [Russian](../ru/)
 
 Below you will find a collection of infographics on COVID-19. When not created by me, you can find the author(s) credits below the illustration. 
 **These illustrations aim to answer specific questions I was asked, in a clear and simplified way**. 
