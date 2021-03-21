@@ -1,4 +1,4 @@
-**Accéder à cette page dans une autre langue** 🇮🇹  [Italien](../it/) 🇵🇹 [Portugais](../pt/) 🇬🇧 [Anglais](../) 🇪🇸 [Spanisch](../es/) 🇩🇪 [Allemand](../de/)
+**Accéder à cette page dans une autre langue** 🇮🇹  [Italien](../it/) 🇵🇹 [Portugais](../pt/) 🇬🇧 [Anglais](../) 🇪🇸 [Spanisch](../es/) 🇩🇪 [Allemand](../de/) 🇷🇺 [Russe](../ru/)
 
 ### Pourquoi cette page ?
 
